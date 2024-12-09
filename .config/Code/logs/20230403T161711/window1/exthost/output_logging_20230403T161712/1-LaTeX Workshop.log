@@ -1,0 +1,23 @@
+[16:17:12][Logger] New log placeholder %WS1% registered for /home/cm/.config/sway .
+[16:17:12][Manager] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[16:17:12][Builder] Cannot run pdflatex to determine if we are using MiKTeX.
+[16:17:12][Server] Creating LaTeX Workshop http and websocket server.
+[16:17:12][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":38665} .
+[16:17:12][Extension] Initializing LaTeX Workshop.
+[16:17:12][Extension] Extension root: /home/cm/.vscode/extensions/james-yu.latex-workshop-9.8.2
+[16:17:12][Extension] $PATH: /home/cm/.local/bin:/home/cm/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+[16:17:12][Extension] $SHELL: /bin/bash
+[16:17:12][Extension] $LANG: en_US.UTF-8
+[16:17:12][Extension] $LC_ALL: undefined
+[16:17:12][Extension] process.platform: linux
+[16:17:12][Extension] process.arch: x64
+[16:17:12][Extension] vscode.env.appName: Visual Studio Code
+[16:17:12][Extension] vscode.env.remoteName: undefined
+[16:17:12][Extension] vscode.env.uiKind: 1
+[16:17:12][Extension] LaTeX Workshop initialized.
+[16:17:12][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[16:17:12][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{"]
+[16:17:12][Manager] Current workspace folders: ["file://%WS1%"]
+[16:17:12][Manager] Current workspaceRootDir: file://%WS1%
+[16:17:12][Server] valdOrigin is http://127.0.0.1:38665
+[16:17:12][Structure] Structure cleared on undefined root.

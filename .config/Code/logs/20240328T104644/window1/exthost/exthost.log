@@ -1,0 +1,20 @@
+2024-03-28 10:46:45.323 [info] Extension host with pid 24797 started
+2024-03-28 10:46:45.323 [info] Skipping acquiring lock for /home/cm/.config/Code/User/workspaceStorage/6c29011c24675887e410d1561b91ed8f.
+2024-03-28 10:46:45.369 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-28 10:46:45.405 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-28 10:46:45.407 [info] ExtensionService#_doActivateExtension James-Yu.latex-workshop, startup: false, activationEvent: 'onLanguage:latex'
+2024-03-28 10:46:45.638 [warning] DiagnosticCollection with name 'BibTeX' does already exist.
+2024-03-28 10:46:45.652 [info] ExtensionService#_doActivateExtension mathematic.vscode-latex, startup: false, activationEvent: 'onLanguage:latex'
+2024-03-28 10:46:45.695 [info] Extension host terminating: renderer closed the MessagePort
+2024-03-28 10:46:45.701 [error] Canceled: Canceled
+	at Object.C [as $6] (/snap/code/155/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /snap/code/155/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:2349
+	at Array.forEach (<anonymous>)
+	at s.dispose (/snap/code/155/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:2287)
+	at w.terminate (/snap/code/155/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:8052)
+	at o.terminate (/snap/code/155/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/snap/code/155/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:9949)
+	at MessagePortMain.<anonymous> (/snap/code/155/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:6374)
+	at MessagePortMain.emit (node:events:514:28)
+	at Object.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-03-28 10:46:45.702 [info] Extension host with pid 24797 exiting with code 0

@@ -1,0 +1,287 @@
+available linters: [
+  "brakeman",
+  "cargo-clippy",
+  "credo",
+  "dart",
+  "erb_lint",
+  "eslint",
+  "gherkin-lint",
+  "hadolint",
+  "language-tool",
+  "luacheck",
+  "markdownlint",
+  "php-code-sniffer",
+  "proselint",
+  "pylint",
+  "reek",
+  "rubocop",
+  "ruby",
+  "shellcheck",
+  "sqlfluff",
+  "stylelint",
+  "swiftlint",
+  "textlint",
+  "vale",
+  "yamllint"
+]
+onchange delay: 300
+Language id: plaintext
+Matching linters: [
+  "language-tool",
+  "proselint",
+  "textlint",
+  "vale"
+]
+Reading from cache? false
+running linters on change is enabled
+Linter config: {
+  "capabilities": [],
+  "command": [
+    "languagetool",
+    "--json",
+    "--autoDetect"
+  ],
+  "configFiles": [],
+  "enabled": true,
+  "languages": [
+    "markdown",
+    "html",
+    "plaintext"
+  ],
+  "name": "language-tool",
+  "url": "https://github.com/languagetool-org/languagetool"
+}
+Args: {
+  "$rootDir": "/home/cm/Documents",
+  "$file": "/home/cm/Documents/k",
+  "$extension": "",
+  "$extensionBare": "",
+  "$config": "",
+  "$debug": false,
+  "$lint": true,
+  "$language": "plaintext",
+  "$shebang": ""
+}
+{
+  "rootDir": "/home/cm/Documents",
+  "configFile": "",
+  "command": [
+    "languagetool",
+    "--json",
+    "--autoDetect"
+  ]
+}
+Searched for any of languagetool; couldn't be found within $PATH: [
+  "/home/cm/.local/bin",
+  "/home/cm/.local/bin",
+  "/usr/local/sbin",
+  "/usr/local/bin",
+  "/usr/sbin",
+  "/usr/bin",
+  "/sbin",
+  "/bin",
+  "/usr/games",
+  "/usr/local/games",
+  "/snap/bin",
+  "/snap/bin"
+]
+language-tool's command took 2ms
+Linter config: {
+  "capabilities": [
+    "fix-inline"
+  ],
+  "command": [
+    "proselint",
+    "--json",
+    [
+      "$config",
+      "--config",
+      "$config"
+    ],
+    "-"
+  ],
+  "configFiles": [
+    ".proselintrc"
+  ],
+  "enabled": true,
+  "languages": [
+    "markdown",
+    "html",
+    "plaintext"
+  ],
+  "name": "proselint",
+  "url": "https://github.com/amperser/proselint/"
+}
+Args: {
+  "$rootDir": "/home/cm/Documents",
+  "$file": "/home/cm/Documents/k",
+  "$extension": "",
+  "$extensionBare": "",
+  "$config": "",
+  "$debug": false,
+  "$lint": true,
+  "$language": "plaintext",
+  "$shebang": ""
+}
+{
+  "rootDir": "/home/cm/Documents",
+  "configFile": "",
+  "command": [
+    "proselint",
+    "--json",
+    "-"
+  ]
+}
+Searched for any of proselint; couldn't be found within $PATH: [
+  "/home/cm/.local/bin",
+  "/home/cm/.local/bin",
+  "/usr/local/sbin",
+  "/usr/local/bin",
+  "/usr/sbin",
+  "/usr/bin",
+  "/sbin",
+  "/bin",
+  "/usr/games",
+  "/usr/local/games",
+  "/snap/bin",
+  "/snap/bin"
+]
+proselint's command took 1ms
+Linter config: {
+  "capabilities": [
+    "fix-inline"
+  ],
+  "command": [
+    "textlint",
+    "--format",
+    "json",
+    [
+      "$debug",
+      "--debug"
+    ],
+    [
+      "$config",
+      "--config",
+      "$config"
+    ],
+    "--stdin",
+    "--stdin-filename",
+    "$file"
+  ],
+  "configFiles": [
+    ".textlintrc",
+    ".textlintrc.js",
+    ".textlintrc.json",
+    ".textlintrc.yaml",
+    ".textlintrc.yml"
+  ],
+  "enabled": true,
+  "languages": [
+    "markdown",
+    "plaintext",
+    "html"
+  ],
+  "name": "textlint",
+  "url": "https://textlint.github.io"
+}
+Args: {
+  "$rootDir": "/home/cm/Documents",
+  "$file": "/home/cm/Documents/k",
+  "$extension": "",
+  "$extensionBare": "",
+  "$config": "",
+  "$debug": false,
+  "$lint": true,
+  "$language": "plaintext",
+  "$shebang": ""
+}
+{
+  "rootDir": "/home/cm/Documents",
+  "configFile": "",
+  "command": [
+    "textlint",
+    "--format",
+    "json",
+    "--stdin",
+    "--stdin-filename",
+    "/home/cm/Documents/k"
+  ]
+}
+Searched for any of textlint; couldn't be found within $PATH: [
+  "/home/cm/.local/bin",
+  "/home/cm/.local/bin",
+  "/usr/local/sbin",
+  "/usr/local/bin",
+  "/usr/sbin",
+  "/usr/bin",
+  "/sbin",
+  "/bin",
+  "/usr/games",
+  "/usr/local/games",
+  "/snap/bin",
+  "/snap/bin"
+]
+textlint's command took 0ms
+Linter config: {
+  "capabilities": [],
+  "command": [
+    "vale",
+    "--output",
+    "JSON",
+    [
+      "$config",
+      "--config",
+      "$config"
+    ],
+    "--ext",
+    "$extension"
+  ],
+  "configFiles": [
+    ".vale.ini"
+  ],
+  "enabled": true,
+  "languages": [
+    "markdown",
+    "plaintext",
+    "html"
+  ],
+  "name": "vale",
+  "url": "https://github.com/errata-ai/vale"
+}
+Args: {
+  "$rootDir": "/home/cm/Documents",
+  "$file": "/home/cm/Documents/k",
+  "$extension": "",
+  "$extensionBare": "",
+  "$config": "",
+  "$debug": false,
+  "$lint": true,
+  "$language": "plaintext",
+  "$shebang": ""
+}
+{
+  "rootDir": "/home/cm/Documents",
+  "configFile": "",
+  "command": [
+    "vale",
+    "--output",
+    "JSON",
+    "--ext",
+    "$extension"
+  ]
+}
+Searched for any of vale; couldn't be found within $PATH: [
+  "/home/cm/.local/bin",
+  "/home/cm/.local/bin",
+  "/usr/local/sbin",
+  "/usr/local/bin",
+  "/usr/sbin",
+  "/usr/bin",
+  "/sbin",
+  "/bin",
+  "/usr/games",
+  "/usr/local/games",
+  "/snap/bin",
+  "/snap/bin"
+]
+vale's command took 1ms

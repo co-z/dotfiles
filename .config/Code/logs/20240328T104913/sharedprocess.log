@@ -1,0 +1,24 @@
+2024-03-28 10:49:14.202 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4960)
+    at E.t (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at y.value (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.fe (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30382)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-03-28 10:49:14.425 [info] Deleted uninstalled extension from disk batisteo.vscode-django /home/cm/.vscode/extensions/batisteo.vscode-django-1.10.0
+2024-03-28 10:49:14.425 [info] Deleted uninstalled extension from disk donjayamanne.python-environment-manager /home/cm/.vscode/extensions/donjayamanne.python-environment-manager-1.0.4
+2024-03-28 10:49:14.425 [info] Deleted uninstalled extension from disk ecmel.vscode-html-css /home/cm/.vscode/extensions/ecmel.vscode-html-css-1.13.1
+2024-03-28 10:49:14.425 [info] Deleted uninstalled extension from disk james-yu.latex-workshop /home/cm/.vscode/extensions/james-yu.latex-workshop-9.10.0
+2024-03-28 10:49:14.425 [info] Deleted uninstalled extension from disk mathematic.vscode-latex /home/cm/.vscode/extensions/mathematic.vscode-latex-1.2.0
+2024-03-28 10:49:14.426 [info] Deleted uninstalled extension from disk ms-python.python /home/cm/.vscode/extensions/ms-python.python-2023.8.0
+2024-03-28 10:49:14.426 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/cm/.vscode/extensions/ms-python.vscode-pylance-2023.5.30
+2024-03-28 10:49:14.426 [info] Deleted uninstalled extension from disk ms-toolsai.jupyter /home/cm/.vscode/extensions/ms-toolsai.jupyter-2023.4.1011241018-linux-x64
+2024-03-28 10:49:14.426 [info] Deleted uninstalled extension from disk ms-toolsai.jupyter-keymap /home/cm/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.0
+2024-03-28 10:49:14.426 [info] Deleted uninstalled extension from disk ms-toolsai.jupyter-renderers /home/cm/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.15
+2024-03-28 10:49:14.426 [info] Deleted uninstalled extension from disk visualstudioexptteam.intellicode-api-usage-examples /home/cm/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.7
+2024-03-28 10:49:14.427 [info] Deleted uninstalled extension from disk visualstudioexptteam.vscodeintellicode /home/cm/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.30
+2024-03-28 10:49:14.427 [info] Deleted uninstalled extension from disk yzhang.markdown-all-in-one /home/cm/.vscode/extensions/yzhang.markdown-all-in-one-3.5.1

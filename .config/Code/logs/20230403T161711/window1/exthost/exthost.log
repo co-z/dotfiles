@@ -1,0 +1,20 @@
+2023-04-03 16:17:12.452 [info] Extension host with pid 7462 started
+2023-04-03 16:17:12.452 [info] Skipping acquiring lock for /home/cm/.config/Code/User/workspaceStorage/6c29011c24675887e410d1561b91ed8f.
+2023-04-03 16:17:12.509 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-03 16:17:12.522 [info] ExtensionService#_doActivateExtension James-Yu.latex-workshop, startup: false, activationEvent: 'onLanguage:latex'
+2023-04-03 16:17:12.722 [warning] DiagnosticCollection with name 'BibTeX' does already exist.
+2023-04-03 16:17:12.727 [info] ExtensionService#_doActivateExtension mathematic.vscode-latex, startup: false, activationEvent: 'onLanguage:latex'
+2023-04-03 16:17:12.768 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-04-03 16:17:12.778 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-04-03 16:17:12.780 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2023-04-03 16:17:12.803 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-04-03 16:17:12.817 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-03 16:17:12.826 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-04-03 16:17:12.847 [info] Eager extensions activated
+2023-04-03 16:17:12.872 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-03 16:17:12.873 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-04-03 16:17:12.876 [info] ExtensionService#_doActivateExtension fnando.linter, startup: false, activationEvent: 'onStartupFinished'
+2023-04-03 16:17:13.157 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-04-03 16:17:13.159 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-04-03 16:17:13.173 [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one, startup: false, activationEvent: 'onLanguage:markdown'
+2023-04-03 16:17:13.310 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one

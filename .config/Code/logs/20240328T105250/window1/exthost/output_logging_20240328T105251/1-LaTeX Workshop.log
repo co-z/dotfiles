@@ -1,0 +1,25 @@
+[10:52:51.205][Logger] New log placeholder %WS1% registered for /home/cm/.config/sway .
+[10:52:51.205][Extension] Initializing LaTeX Workshop.
+[10:52:51.264][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[10:52:51.288][Server] Creating LaTeX Workshop http and websocket server.
+[10:52:51.323][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[10:52:51.340][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":35613} .
+[10:52:51.350][Extension] Extension root: /home/cm/.vscode/extensions/james-yu.latex-workshop-9.19.1
+[10:52:51.350][Extension] $PATH: /home/cm/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+[10:52:51.350][Extension] $SHELL: /bin/bash
+[10:52:51.350][Extension] $LANG: en_US.UTF-8
+[10:52:51.351][Extension] $LC_ALL: C.UTF-8
+[10:52:51.351][Extension] process.platform: linux
+[10:52:51.351][Extension] process.arch: x64
+[10:52:51.351][Extension] vscode.env.appName: Visual Studio Code
+[10:52:51.351][Extension] vscode.env.remoteName: undefined
+[10:52:51.351][Extension] vscode.env.uiKind: 1
+[10:52:51.382][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{"]
+[10:52:51.383][Root] Current workspace folders: ["file://%WS1%"]
+[10:52:51.383][Extension] LaTeX Workshop initialized.
+[10:52:51.383][Root] Current workspaceRootDir: file://%WS1% .
+[10:52:51.386][Server] valdOrigin is http://127.0.0.1:35613
+[10:52:51.464][Root] No root file found.
+[10:52:51.464][Structure] Structure cleared on undefined root.
+[10:52:51.464][Event] ROOT_FILE_SEARCHED
+[10:52:51.464][Event] STRUCTURE_UPDATED

@@ -1,0 +1,28 @@
+available linters: [
+  "brakeman",
+  "cargo-clippy",
+  "credo",
+  "dart",
+  "erb_lint",
+  "eslint",
+  "gherkin-lint",
+  "hadolint",
+  "language-tool",
+  "luacheck",
+  "markdownlint",
+  "php-code-sniffer",
+  "proselint",
+  "pylint",
+  "reek",
+  "rubocop",
+  "ruby",
+  "shellcheck",
+  "sqlfluff",
+  "stylelint",
+  "swiftlint",
+  "textlint",
+  "vale",
+  "yamllint"
+]
+onchange delay: 300
+running linters on change is enabled

@@ -1,0 +1,1715 @@
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/cm/.config/discord/0.0.24/modules
+[Modules] Module installed file path: /home/cm/.config/discord/0.0.24/modules/installed.json
+[Modules] Module download path: /home/cm/.config/discord/0.0.24/modules/pending
+[Modules] Bootstrapping...
+[Modules] Installing discord_desktop_core@0 from /usr/share/discord/resources/bootstrap/discord_desktop_core.zip
+[Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/usr/share/discord/resources/bootstrap/discord_desktop_core.zip'
+[Modules] Installing discord_erlpack@0 from /usr/share/discord/resources/bootstrap/discord_erlpack.zip
+[Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/usr/share/discord/resources/bootstrap/discord_erlpack.zip'
+[Modules] Installing discord_spellcheck@0 from /usr/share/discord/resources/bootstrap/discord_spellcheck.zip
+[Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/usr/share/discord/resources/bootstrap/discord_spellcheck.zip'
+[Modules] Installing discord_utils@0 from /usr/share/discord/resources/bootstrap/discord_utils.zip
+[Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/usr/share/discord/resources/bootstrap/discord_utils.zip'
+[Modules] Installing discord_voice@0 from /usr/share/discord/resources/bootstrap/discord_voice.zip
+[Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/usr/share/discord/resources/bootstrap/discord_voice.zip'
+[Modules] Finished module installations. [success: 0] [failure: 5]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] Module update available: discord_desktop_core@1 [installed: 0]
+[Modules] Module update available: discord_erlpack@1 [installed: 0]
+[Modules] Module update available: discord_spellcheck@1 [installed: 0]
+[Modules] Module update available: discord_utils@1 [installed: 0]
+[Modules] Module update available: discord_voice@2 [installed: 0]
+[Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 2%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 5%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 9%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 11%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 12%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 14%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 15%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 19%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 22%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 26%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 27%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 28%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 31%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 32%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 36%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 39%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 40%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 44%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 47%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 51%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 52%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 55%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 56%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 57%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 60%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 61%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 65%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 68%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 72%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 73%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 76%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 79%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 82%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 84%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 85%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 89%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 90%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 94%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 97%
+[Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 100%
+[Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 3%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 6%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 10%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 13%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 17%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 20%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 23%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 27%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 30%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 31%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 34%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 39%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 43%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 48%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 52%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 55%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 57%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 61%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 62%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 66%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 70%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 74%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 76%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 80%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 85%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 89%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 93%
+[Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 100%
+[Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 1%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 2%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 3%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 4%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 5%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 6%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 7%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 8%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 9%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 10%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 11%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 12%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 13%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 14%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 15%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 16%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 17%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 18%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 19%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 20%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 21%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 22%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 23%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 24%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 25%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 26%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 28%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 29%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 30%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 31%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 32%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 33%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 34%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 35%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 36%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 37%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 38%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 39%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 40%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 41%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 42%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 43%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 44%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 45%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 46%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 47%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 48%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 49%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 50%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 51%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 52%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 53%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 54%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 55%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 56%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 57%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 58%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 59%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 60%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 61%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 62%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 63%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 64%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 65%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 66%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 67%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 68%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 69%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 70%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 71%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 72%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 73%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 74%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 75%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 76%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 77%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 78%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 79%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 80%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 81%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 82%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 83%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 84%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 85%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 86%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 87%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 88%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 89%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 90%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 91%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 92%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 93%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 94%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 95%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 96%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 97%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 98%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 99%
+[Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 100%
+[Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 2%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 4%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 5%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 7%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 8%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 10%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 12%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 14%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 15%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 17%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 18%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 20%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 22%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 25%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 26%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 28%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 30%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 32%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 34%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 38%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 40%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 42%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 44%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 45%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 47%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 50%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 51%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 52%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 54%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 56%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 57%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 59%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 61%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 63%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 65%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 68%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 69%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 70%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 72%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 75%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 77%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 79%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 81%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 83%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 85%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 87%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 89%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 91%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 93%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 94%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 97%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 98%
+[Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 100%
+[Modules] Fetching discord_voice@2 from https://discord.com/api/modules/stable/discord_voice/2
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 1%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 2%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 3%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 4%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 5%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 6%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 7%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 8%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 9%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 10%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 11%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 12%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 13%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 14%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 15%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 16%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 17%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 18%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 19%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 20%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 21%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 22%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 23%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 24%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 25%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 26%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 27%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 28%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 29%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 30%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 31%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 32%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 33%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 34%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 35%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 36%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 37%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 38%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 39%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 40%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 41%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 43%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 44%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 45%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 46%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 47%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 48%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 49%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 50%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 51%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 52%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 53%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 54%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 55%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 56%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 57%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 58%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 59%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 60%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 61%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 62%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 63%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 64%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 65%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 66%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 67%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 68%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 69%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 70%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 71%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 72%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 73%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 74%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 75%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 76%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 77%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 78%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 79%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 80%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 81%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 82%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 83%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 84%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 85%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 86%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 87%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 88%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 89%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 90%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 91%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 92%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 93%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 94%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 95%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 96%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 97%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 98%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 99%
+[Modules] Streaming discord_voice@2 to /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 100%
+[Modules] Finished module downloads. [success: 5] [failure: 0]
+[Modules] Installing updates...
+[Modules] Installing discord_desktop_core@1 from /home/cm/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip
+[Modules] Installing discord_erlpack@1 from /home/cm/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip
+[Modules] Installing discord_spellcheck@1 from /home/cm/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip
+[Modules] Installing discord_utils@1 from /home/cm/.config/discord/0.0.24/modules/pending/discord_utils-1.zip
+[Modules] Installing discord_voice@2 from /home/cm/.config/discord/0.0.24/modules/pending/discord_voice-2.zip
+[Modules] Finished module installations. [success: 5] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip
+[Modules] Starting to install discord_game_utils...
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 1%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 2%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 3%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 4%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 5%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 6%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 7%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 8%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 9%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 10%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 11%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 12%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 13%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 14%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 15%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 16%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 17%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 18%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 19%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 20%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 21%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 22%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 23%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 24%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 25%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 26%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 27%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 28%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 29%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 30%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 31%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 32%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 33%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 34%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 35%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 36%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 37%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 38%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 39%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 40%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 41%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 42%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 43%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 44%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 45%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 46%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 47%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 48%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 49%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 50%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 51%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 52%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 53%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 54%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 55%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 56%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 57%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 58%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 59%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 60%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 61%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 62%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 63%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 64%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 65%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 66%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 67%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 68%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 69%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 70%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 71%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 72%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 73%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 74%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 75%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 76%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 77%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 78%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 79%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 80%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 81%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 82%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 83%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 84%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 85%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 86%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 87%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 88%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 89%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 90%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 91%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 92%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 93%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 94%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 95%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 96%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 97%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 98%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 99%
+[Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 100%
+[Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip
+[Modules] Installing discord_krisp@1 from /home/cm/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 2%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 3%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 5%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 6%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 9%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 10%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 13%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 15%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 16%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 19%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 20%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 21%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 24%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 27%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 29%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 31%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 34%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 37%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 39%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 41%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 42%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 44%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 47%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 49%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 52%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 54%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 57%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 59%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 61%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 63%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 65%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 68%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 69%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 71%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 72%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 74%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 75%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 78%
+[Modules] Checking for host updates.
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 81%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 82%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 84%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 85%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 86%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 88%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 89%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 92%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 93%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 96%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 97%
+[Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 100%
+[Modules] Finished module downloads. [success: 2] [failure: 0]
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Installing discord_game_utils@1 from /home/cm/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip
+[Modules] Finished module installations. [success: 2] [failure: 0]
+[Modules] Starting to install discord_rpc...
+[Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+[Modules] Streaming discord_rpc@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_rpc-1.zip
+[Modules] Streaming discord_rpc@1 to /home/cm/.config/discord/0.0.24/modules/pending/discord_rpc-1.zip: 100%
+[Modules] Finished module downloads. [success: 1] [failure: 0]
+[Modules] Installing discord_rpc@1 from /home/cm/.config/discord/0.0.24/modules/pending/discord_rpc-1.zip
+[Modules] Finished module installations. [success: 1] [failure: 0]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/cm/.config/discord/0.0.24/modules
+[Modules] Module installed file path: /home/cm/.config/discord/0.0.24/modules/installed.json
+[Modules] Module download path: /home/cm/.config/discord/0.0.24/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host update is available. Manual update required!
+2023-02-14T07:45:29.782Z [Modules] Modules initializing
+2023-02-14T07:45:29.782Z [Modules] Distribution: remote
+2023-02-14T07:45:29.782Z [Modules] Host updates: enabled
+2023-02-14T07:45:29.782Z [Modules] Module updates: enabled
+2023-02-14T07:45:29.782Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-02-14T07:45:29.783Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-02-14T07:45:29.783Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-02-14T07:45:29.879Z [Modules] Bootstrapping...
+2023-02-14T07:45:29.879Z [Modules] Installing discord_desktop_core@0 from /usr/share/discord/resources/bootstrap/discord_desktop_core.zip
+2023-02-14T07:45:29.880Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/usr/share/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-02-14T07:45:29.880Z [Modules] Installing discord_erlpack@0 from /usr/share/discord/resources/bootstrap/discord_erlpack.zip
+2023-02-14T07:45:29.880Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/usr/share/discord/resources/bootstrap/discord_erlpack.zip'
+2023-02-14T07:45:29.881Z [Modules] Installing discord_spellcheck@0 from /usr/share/discord/resources/bootstrap/discord_spellcheck.zip
+2023-02-14T07:45:29.881Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/usr/share/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-02-14T07:45:29.881Z [Modules] Installing discord_utils@0 from /usr/share/discord/resources/bootstrap/discord_utils.zip
+2023-02-14T07:45:29.882Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/usr/share/discord/resources/bootstrap/discord_utils.zip'
+2023-02-14T07:45:29.882Z [Modules] Installing discord_voice@0 from /usr/share/discord/resources/bootstrap/discord_voice.zip
+2023-02-14T07:45:29.882Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/usr/share/discord/resources/bootstrap/discord_voice.zip'
+2023-02-14T07:45:29.882Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-02-14T07:45:29.882Z [Modules] Checking for host updates.
+2023-02-14T07:45:30.024Z [Modules] Host is up to date.
+2023-02-14T07:45:30.024Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-02-14T07:45:30.094Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-02-14T07:45:30.094Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-02-14T07:45:30.094Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-02-14T07:45:30.094Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-02-14T07:45:30.094Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-02-14T07:45:30.095Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-02-14T07:45:30.095Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip
+2023-02-14T07:45:30.267Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 2%
+2023-02-14T07:45:30.291Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 5%
+2023-02-14T07:45:30.309Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 9%
+2023-02-14T07:45:30.313Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 11%
+2023-02-14T07:45:30.317Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 13%
+2023-02-14T07:45:30.319Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 14%
+2023-02-14T07:45:30.324Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 15%
+2023-02-14T07:45:30.328Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 17%
+2023-02-14T07:45:30.332Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 21%
+2023-02-14T07:45:30.335Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 22%
+2023-02-14T07:45:30.338Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 26%
+2023-02-14T07:45:30.341Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 28%
+2023-02-14T07:45:30.341Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 29%
+2023-02-14T07:45:30.344Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 32%
+2023-02-14T07:45:30.345Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 33%
+2023-02-14T07:45:30.347Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 36%
+2023-02-14T07:45:30.349Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 40%
+2023-02-14T07:45:30.353Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 43%
+2023-02-14T07:45:30.353Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 46%
+2023-02-14T07:45:30.356Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 50%
+2023-02-14T07:45:30.358Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 53%
+2023-02-14T07:45:30.360Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 56%
+2023-02-14T07:45:30.360Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 58%
+2023-02-14T07:45:30.362Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 62%
+2023-02-14T07:45:30.363Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 66%
+2023-02-14T07:45:30.365Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 69%
+2023-02-14T07:45:30.365Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 72%
+2023-02-14T07:45:30.368Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 75%
+2023-02-14T07:45:30.368Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 76%
+2023-02-14T07:45:30.372Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 80%
+2023-02-14T07:45:30.374Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 83%
+2023-02-14T07:45:30.374Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 84%
+2023-02-14T07:45:30.374Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 87%
+2023-02-14T07:45:30.375Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 90%
+2023-02-14T07:45:30.375Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 92%
+2023-02-14T07:45:30.376Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 96%
+2023-02-14T07:45:30.377Z [Modules] Streaming discord_desktop_core@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip: 100%
+2023-02-14T07:45:30.378Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-02-14T07:45:30.378Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip
+2023-02-14T07:45:30.494Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 3%
+2023-02-14T07:45:30.494Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 4%
+2023-02-14T07:45:30.495Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 8%
+2023-02-14T07:45:30.496Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 12%
+2023-02-14T07:45:30.497Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 16%
+2023-02-14T07:45:30.498Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 17%
+2023-02-14T07:45:30.499Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 21%
+2023-02-14T07:45:30.499Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 23%
+2023-02-14T07:45:30.500Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 27%
+2023-02-14T07:45:30.500Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 30%
+2023-02-14T07:45:30.501Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 31%
+2023-02-14T07:45:30.501Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 35%
+2023-02-14T07:45:30.504Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 39%
+2023-02-14T07:45:30.504Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 46%
+2023-02-14T07:45:30.505Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 50%
+2023-02-14T07:45:30.505Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 54%
+2023-02-14T07:45:30.506Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 58%
+2023-02-14T07:45:30.506Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 60%
+2023-02-14T07:45:30.507Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 62%
+2023-02-14T07:45:30.508Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 65%
+2023-02-14T07:45:30.509Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 69%
+2023-02-14T07:45:30.509Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 70%
+2023-02-14T07:45:30.510Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 74%
+2023-02-14T07:45:30.510Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 77%
+2023-02-14T07:45:30.511Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 81%
+2023-02-14T07:45:30.511Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 84%
+2023-02-14T07:45:30.512Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 88%
+2023-02-14T07:45:30.513Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 90%
+2023-02-14T07:45:30.514Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 93%
+2023-02-14T07:45:30.514Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 96%
+2023-02-14T07:45:30.514Z [Modules] Streaming discord_erlpack@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip: 100%
+2023-02-14T07:45:30.515Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-02-14T07:45:30.515Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip
+2023-02-14T07:45:30.659Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 1%
+2023-02-14T07:45:30.661Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 2%
+2023-02-14T07:45:30.662Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 3%
+2023-02-14T07:45:30.664Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 4%
+2023-02-14T07:45:30.665Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 5%
+2023-02-14T07:45:30.666Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 6%
+2023-02-14T07:45:30.668Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 7%
+2023-02-14T07:45:30.669Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 8%
+2023-02-14T07:45:30.671Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 9%
+2023-02-14T07:45:30.672Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 10%
+2023-02-14T07:45:30.674Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 11%
+2023-02-14T07:45:30.675Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 12%
+2023-02-14T07:45:30.678Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 13%
+2023-02-14T07:45:30.678Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 14%
+2023-02-14T07:45:30.679Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 15%
+2023-02-14T07:45:30.680Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 16%
+2023-02-14T07:45:30.682Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 17%
+2023-02-14T07:45:30.683Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 18%
+2023-02-14T07:45:30.686Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 19%
+2023-02-14T07:45:30.687Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 20%
+2023-02-14T07:45:30.689Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 21%
+2023-02-14T07:45:30.690Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 22%
+2023-02-14T07:45:30.692Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 23%
+2023-02-14T07:45:30.693Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 24%
+2023-02-14T07:45:30.695Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 25%
+2023-02-14T07:45:30.696Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 26%
+2023-02-14T07:45:30.698Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 27%
+2023-02-14T07:45:30.699Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 28%
+2023-02-14T07:45:30.700Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 29%
+2023-02-14T07:45:30.702Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 30%
+2023-02-14T07:45:30.703Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 31%
+2023-02-14T07:45:30.706Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 32%
+2023-02-14T07:45:30.707Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 33%
+2023-02-14T07:45:30.708Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 34%
+2023-02-14T07:45:30.710Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 35%
+2023-02-14T07:45:30.711Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 36%
+2023-02-14T07:45:30.712Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 37%
+2023-02-14T07:45:30.713Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 38%
+2023-02-14T07:45:30.715Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 39%
+2023-02-14T07:45:30.716Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 40%
+2023-02-14T07:45:30.717Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 41%
+2023-02-14T07:45:30.719Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 42%
+2023-02-14T07:45:30.721Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 43%
+2023-02-14T07:45:30.722Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 44%
+2023-02-14T07:45:30.723Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 45%
+2023-02-14T07:45:30.725Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 46%
+2023-02-14T07:45:30.726Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 47%
+2023-02-14T07:45:30.727Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 48%
+2023-02-14T07:45:30.729Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 49%
+2023-02-14T07:45:30.730Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 50%
+2023-02-14T07:45:30.731Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 51%
+2023-02-14T07:45:30.733Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 52%
+2023-02-14T07:45:30.734Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 53%
+2023-02-14T07:45:30.736Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 54%
+2023-02-14T07:45:30.737Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 55%
+2023-02-14T07:45:30.739Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 56%
+2023-02-14T07:45:30.740Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 57%
+2023-02-14T07:45:30.741Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 58%
+2023-02-14T07:45:30.742Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 59%
+2023-02-14T07:45:30.744Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 60%
+2023-02-14T07:45:30.745Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 61%
+2023-02-14T07:45:30.748Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 62%
+2023-02-14T07:45:30.749Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 63%
+2023-02-14T07:45:30.751Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 64%
+2023-02-14T07:45:30.752Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 65%
+2023-02-14T07:45:30.753Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 66%
+2023-02-14T07:45:30.755Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 67%
+2023-02-14T07:45:30.756Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 68%
+2023-02-14T07:45:30.757Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 69%
+2023-02-14T07:45:30.759Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 70%
+2023-02-14T07:45:30.760Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 71%
+2023-02-14T07:45:30.762Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 72%
+2023-02-14T07:45:30.763Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 73%
+2023-02-14T07:45:30.766Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 74%
+2023-02-14T07:45:30.767Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 75%
+2023-02-14T07:45:30.768Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 76%
+2023-02-14T07:45:30.769Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 77%
+2023-02-14T07:45:30.771Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 78%
+2023-02-14T07:45:30.772Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 79%
+2023-02-14T07:45:30.774Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 80%
+2023-02-14T07:45:30.777Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 81%
+2023-02-14T07:45:30.777Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 82%
+2023-02-14T07:45:30.778Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 83%
+2023-02-14T07:45:30.781Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 84%
+2023-02-14T07:45:30.782Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 85%
+2023-02-14T07:45:30.784Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 86%
+2023-02-14T07:45:30.785Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 87%
+2023-02-14T07:45:30.787Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 88%
+2023-02-14T07:45:30.788Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 89%
+2023-02-14T07:45:30.791Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 90%
+2023-02-14T07:45:30.793Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 91%
+2023-02-14T07:45:30.794Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 92%
+2023-02-14T07:45:30.795Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 93%
+2023-02-14T07:45:30.797Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 94%
+2023-02-14T07:45:30.798Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 95%
+2023-02-14T07:45:30.800Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 96%
+2023-02-14T07:45:30.801Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 97%
+2023-02-14T07:45:30.802Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 98%
+2023-02-14T07:45:30.802Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 99%
+2023-02-14T07:45:30.804Z [Modules] Streaming discord_spellcheck@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip: 100%
+2023-02-14T07:45:30.804Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-02-14T07:45:30.804Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip
+2023-02-14T07:45:30.910Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 2%
+2023-02-14T07:45:30.910Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 3%
+2023-02-14T07:45:30.911Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 5%
+2023-02-14T07:45:30.912Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 7%
+2023-02-14T07:45:30.914Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 9%
+2023-02-14T07:45:30.914Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 10%
+2023-02-14T07:45:30.914Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 11%
+2023-02-14T07:45:30.915Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 13%
+2023-02-14T07:45:30.915Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 15%
+2023-02-14T07:45:30.916Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 17%
+2023-02-14T07:45:30.916Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 18%
+2023-02-14T07:45:30.917Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 21%
+2023-02-14T07:45:30.918Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 22%
+2023-02-14T07:45:30.919Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 24%
+2023-02-14T07:45:30.919Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 27%
+2023-02-14T07:45:30.920Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 29%
+2023-02-14T07:45:30.920Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 30%
+2023-02-14T07:45:30.921Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 32%
+2023-02-14T07:45:30.921Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 34%
+2023-02-14T07:45:30.921Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 35%
+2023-02-14T07:45:30.923Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 37%
+2023-02-14T07:45:30.923Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 39%
+2023-02-14T07:45:30.923Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 40%
+2023-02-14T07:45:30.924Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 42%
+2023-02-14T07:45:30.924Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 43%
+2023-02-14T07:45:30.925Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 45%
+2023-02-14T07:45:30.925Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 47%
+2023-02-14T07:45:30.927Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 49%
+2023-02-14T07:45:30.927Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 51%
+2023-02-14T07:45:30.928Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 52%
+2023-02-14T07:45:30.928Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 55%
+2023-02-14T07:45:30.930Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 57%
+2023-02-14T07:45:30.931Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 61%
+2023-02-14T07:45:30.932Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 63%
+2023-02-14T07:45:30.932Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 65%
+2023-02-14T07:45:30.933Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 67%
+2023-02-14T07:45:30.933Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 69%
+2023-02-14T07:45:30.933Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 70%
+2023-02-14T07:45:30.935Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 72%
+2023-02-14T07:45:30.936Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 76%
+2023-02-14T07:45:30.937Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 79%
+2023-02-14T07:45:30.937Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 81%
+2023-02-14T07:45:30.938Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 83%
+2023-02-14T07:45:30.938Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 85%
+2023-02-14T07:45:30.939Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 86%
+2023-02-14T07:45:30.940Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 89%
+2023-02-14T07:45:30.941Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 91%
+2023-02-14T07:45:30.941Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 94%
+2023-02-14T07:45:30.942Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 96%
+2023-02-14T07:45:30.942Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 99%
+2023-02-14T07:45:30.943Z [Modules] Streaming discord_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip: 100%
+2023-02-14T07:45:30.943Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-02-14T07:45:30.943Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip
+2023-02-14T07:45:31.054Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 1%
+2023-02-14T07:45:31.056Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 2%
+2023-02-14T07:45:31.059Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 3%
+2023-02-14T07:45:31.060Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 4%
+2023-02-14T07:45:31.063Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 5%
+2023-02-14T07:45:31.064Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 6%
+2023-02-14T07:45:31.067Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 7%
+2023-02-14T07:45:31.068Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 8%
+2023-02-14T07:45:31.071Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 9%
+2023-02-14T07:45:31.072Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 10%
+2023-02-14T07:45:31.074Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 11%
+2023-02-14T07:45:31.076Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 12%
+2023-02-14T07:45:31.079Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 13%
+2023-02-14T07:45:31.080Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 14%
+2023-02-14T07:45:31.083Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 15%
+2023-02-14T07:45:31.084Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 16%
+2023-02-14T07:45:31.087Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 17%
+2023-02-14T07:45:31.088Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 18%
+2023-02-14T07:45:31.118Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 19%
+2023-02-14T07:45:31.118Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 20%
+2023-02-14T07:45:31.118Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 21%
+2023-02-14T07:45:31.118Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 22%
+2023-02-14T07:45:31.119Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 23%
+2023-02-14T07:45:31.119Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 24%
+2023-02-14T07:45:31.120Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 25%
+2023-02-14T07:45:31.120Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 26%
+2023-02-14T07:45:31.120Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 27%
+2023-02-14T07:45:31.121Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 28%
+2023-02-14T07:45:31.121Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 29%
+2023-02-14T07:45:31.121Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 30%
+2023-02-14T07:45:31.122Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 32%
+2023-02-14T07:45:31.122Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 33%
+2023-02-14T07:45:31.122Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 34%
+2023-02-14T07:45:31.146Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 35%
+2023-02-14T07:45:31.169Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 36%
+2023-02-14T07:45:31.173Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 37%
+2023-02-14T07:45:31.176Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 38%
+2023-02-14T07:45:31.177Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 39%
+2023-02-14T07:45:31.181Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 40%
+2023-02-14T07:45:31.182Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 41%
+2023-02-14T07:45:31.185Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 42%
+2023-02-14T07:45:31.186Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 43%
+2023-02-14T07:45:31.189Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 44%
+2023-02-14T07:45:31.191Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 45%
+2023-02-14T07:45:31.194Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 46%
+2023-02-14T07:45:31.195Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 47%
+2023-02-14T07:45:31.199Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 48%
+2023-02-14T07:45:31.201Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 49%
+2023-02-14T07:45:31.203Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 50%
+2023-02-14T07:45:31.204Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 51%
+2023-02-14T07:45:31.208Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 52%
+2023-02-14T07:45:31.211Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 53%
+2023-02-14T07:45:31.213Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 54%
+2023-02-14T07:45:31.215Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 55%
+2023-02-14T07:45:31.216Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 56%
+2023-02-14T07:45:31.218Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 57%
+2023-02-14T07:45:31.221Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 58%
+2023-02-14T07:45:31.222Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 59%
+2023-02-14T07:45:31.225Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 60%
+2023-02-14T07:45:31.227Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 61%
+2023-02-14T07:45:31.230Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 62%
+2023-02-14T07:45:31.232Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 63%
+2023-02-14T07:45:31.234Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 64%
+2023-02-14T07:45:31.236Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 65%
+2023-02-14T07:45:31.238Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 66%
+2023-02-14T07:45:31.241Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 67%
+2023-02-14T07:45:31.244Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 68%
+2023-02-14T07:45:31.245Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 69%
+2023-02-14T07:45:31.248Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 70%
+2023-02-14T07:45:31.250Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 71%
+2023-02-14T07:45:31.252Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 72%
+2023-02-14T07:45:31.254Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 73%
+2023-02-14T07:45:31.256Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 74%
+2023-02-14T07:45:31.259Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 75%
+2023-02-14T07:45:31.261Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 76%
+2023-02-14T07:45:31.264Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 77%
+2023-02-14T07:45:31.265Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 78%
+2023-02-14T07:45:31.268Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 79%
+2023-02-14T07:45:31.269Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 80%
+2023-02-14T07:45:31.272Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 81%
+2023-02-14T07:45:31.274Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 82%
+2023-02-14T07:45:31.277Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 83%
+2023-02-14T07:45:31.278Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 84%
+2023-02-14T07:45:31.281Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 85%
+2023-02-14T07:45:31.284Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 86%
+2023-02-14T07:45:31.285Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 87%
+2023-02-14T07:45:31.287Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 88%
+2023-02-14T07:45:31.290Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 89%
+2023-02-14T07:45:31.292Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 90%
+2023-02-14T07:45:31.294Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 91%
+2023-02-14T07:45:31.296Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 92%
+2023-02-14T07:45:31.299Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 93%
+2023-02-14T07:45:31.301Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 94%
+2023-02-14T07:45:31.303Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 95%
+2023-02-14T07:45:31.306Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 96%
+2023-02-14T07:45:31.307Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 97%
+2023-02-14T07:45:31.310Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 98%
+2023-02-14T07:45:31.312Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 99%
+2023-02-14T07:45:31.313Z [Modules] Streaming discord_voice@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip: 100%
+2023-02-14T07:45:31.314Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-02-14T07:45:31.314Z [Modules] Installing updates...
+2023-02-14T07:45:31.314Z [Modules] Installing discord_desktop_core@1 from /home/cm/.config/discord/0.0.25/modules/pending/discord_desktop_core-1.zip
+2023-02-14T07:45:31.361Z [Modules] Installing discord_erlpack@1 from /home/cm/.config/discord/0.0.25/modules/pending/discord_erlpack-1.zip
+2023-02-14T07:45:31.408Z [Modules] Installing discord_spellcheck@1 from /home/cm/.config/discord/0.0.25/modules/pending/discord_spellcheck-1.zip
+2023-02-14T07:45:31.815Z [Modules] Installing discord_utils@1 from /home/cm/.config/discord/0.0.25/modules/pending/discord_utils-1.zip
+2023-02-14T07:45:32.046Z [Modules] Installing discord_voice@1 from /home/cm/.config/discord/0.0.25/modules/pending/discord_voice-1.zip
+2023-02-14T07:45:32.416Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-02-14T07:45:32.416Z [Modules] Checking for host updates.
+2023-02-14T07:45:32.497Z [Modules] Host is up to date.
+2023-02-14T07:45:32.497Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-02-14T07:45:32.498Z [Modules] No module updates available.
+2023-02-14T07:45:34.117Z [Modules] Starting to install discord_krisp...
+2023-02-14T07:45:34.118Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-02-14T07:45:34.118Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip
+2023-02-14T07:45:34.119Z [Modules] Starting to install discord_game_utils...
+2023-02-14T07:45:34.273Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 1%
+2023-02-14T07:45:34.276Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 2%
+2023-02-14T07:45:34.278Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 4%
+2023-02-14T07:45:34.279Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 6%
+2023-02-14T07:45:34.281Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 9%
+2023-02-14T07:45:34.281Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 10%
+2023-02-14T07:45:34.282Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 11%
+2023-02-14T07:45:34.282Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 12%
+2023-02-14T07:45:34.283Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 13%
+2023-02-14T07:45:34.296Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 14%
+2023-02-14T07:45:34.302Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 15%
+2023-02-14T07:45:34.304Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 16%
+2023-02-14T07:45:34.306Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 17%
+2023-02-14T07:45:34.309Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 18%
+2023-02-14T07:45:34.312Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 19%
+2023-02-14T07:45:34.314Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 20%
+2023-02-14T07:45:34.316Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 21%
+2023-02-14T07:45:34.319Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 22%
+2023-02-14T07:45:34.323Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 23%
+2023-02-14T07:45:34.328Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 25%
+2023-02-14T07:45:34.329Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 26%
+2023-02-14T07:45:34.332Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 27%
+2023-02-14T07:45:34.334Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 28%
+2023-02-14T07:45:34.337Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 29%
+2023-02-14T07:45:34.339Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 30%
+2023-02-14T07:45:34.342Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 31%
+2023-02-14T07:45:34.345Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 32%
+2023-02-14T07:45:34.347Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 33%
+2023-02-14T07:45:34.350Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 34%
+2023-02-14T07:45:34.352Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 35%
+2023-02-14T07:45:34.354Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 36%
+2023-02-14T07:45:34.440Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 37%
+2023-02-14T07:45:34.448Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 38%
+2023-02-14T07:45:34.452Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 39%
+2023-02-14T07:45:34.454Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 40%
+2023-02-14T07:45:34.457Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 41%
+2023-02-14T07:45:34.460Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 42%
+2023-02-14T07:45:34.461Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 43%
+2023-02-14T07:45:34.467Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 44%
+2023-02-14T07:45:34.469Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 45%
+2023-02-14T07:45:34.470Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 46%
+2023-02-14T07:45:34.471Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 47%
+2023-02-14T07:45:34.471Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 48%
+2023-02-14T07:45:34.472Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 49%
+2023-02-14T07:45:34.473Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 50%
+2023-02-14T07:45:34.474Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 51%
+2023-02-14T07:45:34.475Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 52%
+2023-02-14T07:45:34.476Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 53%
+2023-02-14T07:45:34.476Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 54%
+2023-02-14T07:45:34.477Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 55%
+2023-02-14T07:45:34.489Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 56%
+2023-02-14T07:45:34.493Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 57%
+2023-02-14T07:45:34.496Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 58%
+2023-02-14T07:45:34.499Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 59%
+2023-02-14T07:45:34.501Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 60%
+2023-02-14T07:45:34.504Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 61%
+2023-02-14T07:45:34.506Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 62%
+2023-02-14T07:45:34.509Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 63%
+2023-02-14T07:45:34.511Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 64%
+2023-02-14T07:45:34.514Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 65%
+2023-02-14T07:45:34.516Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 66%
+2023-02-14T07:45:34.518Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 67%
+2023-02-14T07:45:34.521Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 68%
+2023-02-14T07:45:34.523Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 69%
+2023-02-14T07:45:34.525Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 70%
+2023-02-14T07:45:34.527Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 71%
+2023-02-14T07:45:34.530Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 72%
+2023-02-14T07:45:34.531Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 73%
+2023-02-14T07:45:34.534Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 74%
+2023-02-14T07:45:34.536Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 75%
+2023-02-14T07:45:34.539Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 76%
+2023-02-14T07:45:34.541Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 77%
+2023-02-14T07:45:34.543Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 78%
+2023-02-14T07:45:34.546Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 79%
+2023-02-14T07:45:34.548Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 80%
+2023-02-14T07:45:34.551Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 81%
+2023-02-14T07:45:34.553Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 82%
+2023-02-14T07:45:34.556Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 83%
+2023-02-14T07:45:34.559Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 84%
+2023-02-14T07:45:34.562Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 85%
+2023-02-14T07:45:34.565Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 86%
+2023-02-14T07:45:34.567Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 87%
+2023-02-14T07:45:34.570Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 88%
+2023-02-14T07:45:34.572Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 89%
+2023-02-14T07:45:34.575Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 90%
+2023-02-14T07:45:34.578Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 91%
+2023-02-14T07:45:34.581Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 92%
+2023-02-14T07:45:34.583Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 93%
+2023-02-14T07:45:34.586Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 94%
+2023-02-14T07:45:34.588Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 95%
+2023-02-14T07:45:34.592Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 96%
+2023-02-14T07:45:34.595Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 97%
+2023-02-14T07:45:34.598Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 98%
+2023-02-14T07:45:34.602Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 99%
+2023-02-14T07:45:34.604Z [Modules] Streaming discord_krisp@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip: 100%
+2023-02-14T07:45:34.605Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-02-14T07:45:34.605Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip
+2023-02-14T07:45:34.605Z [Modules] Installing discord_krisp@1 from /home/cm/.config/discord/0.0.25/modules/pending/discord_krisp-1.zip
+2023-02-14T07:45:34.726Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 2%
+2023-02-14T07:45:34.726Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 4%
+2023-02-14T07:45:34.728Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 7%
+2023-02-14T07:45:34.728Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 9%
+2023-02-14T07:45:34.729Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 12%
+2023-02-14T07:45:34.730Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 13%
+2023-02-14T07:45:34.731Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 17%
+2023-02-14T07:45:34.732Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 20%
+2023-02-14T07:45:34.732Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 21%
+2023-02-14T07:45:34.732Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 22%
+2023-02-14T07:45:34.733Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 25%
+2023-02-14T07:45:34.734Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 26%
+2023-02-14T07:45:34.735Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 29%
+2023-02-14T07:45:34.736Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 32%
+2023-02-14T07:45:34.736Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 35%
+2023-02-14T07:45:34.739Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 42%
+2023-02-14T07:45:34.740Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 43%
+2023-02-14T07:45:34.740Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 45%
+2023-02-14T07:45:34.741Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 47%
+2023-02-14T07:45:34.742Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 49%
+2023-02-14T07:45:34.742Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 52%
+2023-02-14T07:45:34.743Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 55%
+2023-02-14T07:45:34.747Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 63%
+2023-02-14T07:45:34.749Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 74%
+2023-02-14T07:45:34.750Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 77%
+2023-02-14T07:45:34.750Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 79%
+2023-02-14T07:45:34.752Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 81%
+2023-02-14T07:45:34.753Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 84%
+2023-02-14T07:45:34.753Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 85%
+2023-02-14T07:45:34.754Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 87%
+2023-02-14T07:45:34.755Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 90%
+2023-02-14T07:45:34.755Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 92%
+2023-02-14T07:45:34.756Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 94%
+2023-02-14T07:45:34.756Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 96%
+2023-02-14T07:45:34.757Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 99%
+2023-02-14T07:45:34.757Z [Modules] Streaming discord_game_utils@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip: 100%
+2023-02-14T07:45:34.782Z [Modules] Finished module downloads. [success: 2] [failure: 0]
+2023-02-14T07:45:34.959Z [Modules] Installing discord_game_utils@1 from /home/cm/.config/discord/0.0.25/modules/pending/discord_game_utils-1.zip
+2023-02-14T07:45:34.963Z [Modules] Checking for host updates.
+2023-02-14T07:45:35.004Z [Modules] Finished module installations. [success: 2] [failure: 0]
+2023-02-14T07:45:35.039Z [Modules] Host is up to date.
+2023-02-14T07:45:35.040Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-02-14T07:45:35.041Z [Modules] No module updates available.
+2023-02-14T07:45:35.139Z [Modules] Starting to install discord_rpc...
+2023-02-14T07:45:35.139Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-02-14T07:45:35.139Z [Modules] Streaming discord_rpc@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_rpc-1.zip
+2023-02-14T07:45:35.254Z [Modules] Streaming discord_rpc@1 to /home/cm/.config/discord/0.0.25/modules/pending/discord_rpc-1.zip: 100%
+2023-02-14T07:45:35.255Z [Modules] Finished module downloads. [success: 1] [failure: 0]
+2023-02-14T07:45:35.255Z [Modules] Installing discord_rpc@1 from /home/cm/.config/discord/0.0.25/modules/pending/discord_rpc-1.zip
+2023-02-14T07:45:35.265Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-02-20T13:56:33.569Z [Modules] Modules initializing
+2023-02-20T13:56:33.569Z [Modules] Distribution: remote
+2023-02-20T13:56:33.569Z [Modules] Host updates: enabled
+2023-02-20T13:56:33.569Z [Modules] Module updates: enabled
+2023-02-20T13:56:33.569Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-02-20T13:56:33.569Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-02-20T13:56:33.569Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-02-20T13:56:33.704Z [Modules] No updates to install
+2023-02-20T13:56:33.704Z [Modules] Checking for host updates.
+2023-02-20T13:56:34.000Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T13:56:44.000Z [Modules] Checking for host updates.
+2023-02-20T13:56:44.189Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T13:57:04.199Z [Modules] Checking for host updates.
+2023-02-20T13:57:04.396Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T13:57:34.396Z [Modules] Checking for host updates.
+2023-02-20T13:57:34.597Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T13:58:14.607Z [Modules] Checking for host updates.
+2023-02-20T13:58:14.807Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T13:59:04.827Z [Modules] Checking for host updates.
+2023-02-20T13:59:05.028Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:00:05.058Z [Modules] Checking for host updates.
+2023-02-20T14:00:05.249Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:01:05.279Z [Modules] Checking for host updates.
+2023-02-20T14:01:05.471Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:02:05.499Z [Modules] Checking for host updates.
+2023-02-20T14:02:05.699Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:03:05.727Z [Modules] Checking for host updates.
+2023-02-20T14:03:05.926Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:04:05.955Z [Modules] Checking for host updates.
+2023-02-20T14:04:06.143Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:05:06.171Z [Modules] Checking for host updates.
+2023-02-20T14:05:06.365Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:06:06.395Z [Modules] Checking for host updates.
+2023-02-20T14:06:06.589Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:07:06.619Z [Modules] Checking for host updates.
+2023-02-20T14:07:06.829Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:08:06.846Z [Modules] Checking for host updates.
+2023-02-20T14:08:07.044Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:09:07.074Z [Modules] Checking for host updates.
+2023-02-20T14:09:07.272Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:10:07.299Z [Modules] Checking for host updates.
+2023-02-20T14:10:07.489Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:11:07.519Z [Modules] Checking for host updates.
+2023-02-20T14:11:07.711Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:12:07.730Z [Modules] Checking for host updates.
+2023-02-20T14:12:07.921Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:13:07.951Z [Modules] Checking for host updates.
+2023-02-20T14:13:08.149Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:14:08.179Z [Modules] Checking for host updates.
+2023-02-20T14:14:08.374Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:15:08.403Z [Modules] Checking for host updates.
+2023-02-20T14:15:08.593Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:16:08.624Z [Modules] Checking for host updates.
+2023-02-20T14:16:08.813Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:17:08.843Z [Modules] Checking for host updates.
+2023-02-20T14:17:09.048Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:18:09.075Z [Modules] Checking for host updates.
+2023-02-20T14:18:09.276Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:19:09.280Z [Modules] Checking for host updates.
+2023-02-20T14:19:09.475Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:20:09.503Z [Modules] Checking for host updates.
+2023-02-20T14:20:09.705Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:21:09.736Z [Modules] Checking for host updates.
+2023-02-20T14:21:09.935Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:22:09.963Z [Modules] Checking for host updates.
+2023-02-20T14:22:10.155Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:23:10.183Z [Modules] Checking for host updates.
+2023-02-20T14:23:10.381Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:24:10.399Z [Modules] Checking for host updates.
+2023-02-20T14:24:10.601Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:25:10.631Z [Modules] Checking for host updates.
+2023-02-20T14:25:10.828Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:26:10.855Z [Modules] Checking for host updates.
+2023-02-20T14:26:11.052Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:27:11.079Z [Modules] Checking for host updates.
+2023-02-20T14:27:11.278Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:28:11.307Z [Modules] Checking for host updates.
+2023-02-20T14:28:11.498Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:29:11.527Z [Modules] Checking for host updates.
+2023-02-20T14:29:11.729Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:30:11.759Z [Modules] Checking for host updates.
+2023-02-20T14:30:11.960Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:31:11.971Z [Modules] Checking for host updates.
+2023-02-20T14:31:12.164Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:32:12.167Z [Modules] Checking for host updates.
+2023-02-20T14:32:12.365Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:33:12.395Z [Modules] Checking for host updates.
+2023-02-20T14:33:12.593Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:34:12.623Z [Modules] Checking for host updates.
+2023-02-20T14:34:12.817Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:35:12.847Z [Modules] Checking for host updates.
+2023-02-20T14:35:13.060Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:36:13.090Z [Modules] Checking for host updates.
+2023-02-20T14:36:13.289Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:37:13.319Z [Modules] Checking for host updates.
+2023-02-20T14:37:13.525Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:38:13.555Z [Modules] Checking for host updates.
+2023-02-20T14:38:13.753Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:39:13.783Z [Modules] Checking for host updates.
+2023-02-20T14:39:13.971Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:40:13.999Z [Modules] Checking for host updates.
+2023-02-20T14:40:14.185Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:41:14.215Z [Modules] Checking for host updates.
+2023-02-20T14:41:14.404Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:42:14.434Z [Modules] Checking for host updates.
+2023-02-20T14:42:14.631Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:43:14.659Z [Modules] Checking for host updates.
+2023-02-20T14:43:14.862Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:44:14.891Z [Modules] Checking for host updates.
+2023-02-20T14:44:15.083Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:45:15.113Z [Modules] Checking for host updates.
+2023-02-20T14:45:15.304Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:46:15.334Z [Modules] Checking for host updates.
+2023-02-20T14:46:15.533Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:47:15.563Z [Modules] Checking for host updates.
+2023-02-20T14:47:15.762Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:48:15.791Z [Modules] Checking for host updates.
+2023-02-20T14:48:15.981Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:49:16.011Z [Modules] Checking for host updates.
+2023-02-20T14:49:16.210Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:50:16.239Z [Modules] Checking for host updates.
+2023-02-20T14:50:16.439Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:51:16.467Z [Modules] Checking for host updates.
+2023-02-20T14:51:16.663Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:52:16.691Z [Modules] Checking for host updates.
+2023-02-20T14:52:16.883Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:53:16.911Z [Modules] Checking for host updates.
+2023-02-20T14:53:17.107Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:54:17.115Z [Modules] Checking for host updates.
+2023-02-20T14:54:17.332Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:55:17.359Z [Modules] Checking for host updates.
+2023-02-20T14:55:17.553Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:56:17.583Z [Modules] Checking for host updates.
+2023-02-20T14:56:17.782Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:57:17.811Z [Modules] Checking for host updates.
+2023-02-20T14:57:18.004Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:58:18.031Z [Modules] Checking for host updates.
+2023-02-20T14:58:18.233Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T14:59:18.263Z [Modules] Checking for host updates.
+2023-02-20T14:59:18.474Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:00:18.503Z [Modules] Checking for host updates.
+2023-02-20T15:00:18.690Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:01:18.697Z [Modules] Checking for host updates.
+2023-02-20T15:01:18.892Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:02:18.919Z [Modules] Checking for host updates.
+2023-02-20T15:02:19.119Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:03:19.147Z [Modules] Checking for host updates.
+2023-02-20T15:03:19.334Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:04:19.363Z [Modules] Checking for host updates.
+2023-02-20T15:04:19.572Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:05:19.602Z [Modules] Checking for host updates.
+2023-02-20T15:05:19.798Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:06:19.829Z [Modules] Checking for host updates.
+2023-02-20T15:06:20.029Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:07:20.059Z [Modules] Checking for host updates.
+2023-02-20T15:07:20.264Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:08:20.267Z [Modules] Checking for host updates.
+2023-02-20T15:08:20.469Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:09:20.499Z [Modules] Checking for host updates.
+2023-02-20T15:09:20.693Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:10:20.723Z [Modules] Checking for host updates.
+2023-02-20T15:10:20.929Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:11:20.960Z [Modules] Checking for host updates.
+2023-02-20T15:11:21.161Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:12:21.165Z [Modules] Checking for host updates.
+2023-02-20T15:12:21.362Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:13:21.391Z [Modules] Checking for host updates.
+2023-02-20T15:13:21.583Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:14:21.613Z [Modules] Checking for host updates.
+2023-02-20T15:14:21.806Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:15:21.837Z [Modules] Checking for host updates.
+2023-02-20T15:15:22.034Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:16:22.041Z [Modules] Checking for host updates.
+2023-02-20T15:16:22.236Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:17:22.266Z [Modules] Checking for host updates.
+2023-02-20T15:17:22.464Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:18:22.494Z [Modules] Checking for host updates.
+2023-02-20T15:18:22.688Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:19:22.701Z [Modules] Checking for host updates.
+2023-02-20T15:19:22.916Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:20:22.946Z [Modules] Checking for host updates.
+2023-02-20T15:20:23.139Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:21:23.169Z [Modules] Checking for host updates.
+2023-02-20T15:21:23.369Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:22:23.387Z [Modules] Checking for host updates.
+2023-02-20T15:22:23.591Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:23:23.622Z [Modules] Checking for host updates.
+2023-02-20T15:23:23.826Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:24:23.857Z [Modules] Checking for host updates.
+2023-02-20T15:24:24.059Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:25:24.089Z [Modules] Checking for host updates.
+2023-02-20T15:25:24.300Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:26:24.330Z [Modules] Checking for host updates.
+2023-02-20T15:26:24.530Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:27:24.561Z [Modules] Checking for host updates.
+2023-02-20T15:27:24.760Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:28:24.790Z [Modules] Checking for host updates.
+2023-02-20T15:28:24.996Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:29:25.027Z [Modules] Checking for host updates.
+2023-02-20T15:29:25.220Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:30:25.251Z [Modules] Checking for host updates.
+2023-02-20T15:30:25.443Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:31:25.474Z [Modules] Checking for host updates.
+2023-02-20T15:31:25.682Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:32:25.712Z [Modules] Checking for host updates.
+2023-02-20T15:32:25.914Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:33:25.944Z [Modules] Checking for host updates.
+2023-02-20T15:33:26.142Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:34:26.173Z [Modules] Checking for host updates.
+2023-02-20T15:34:26.377Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:35:26.407Z [Modules] Checking for host updates.
+2023-02-20T15:35:26.605Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:36:26.635Z [Modules] Checking for host updates.
+2023-02-20T15:36:28.107Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-02-20T15:37:28.159Z [Modules] Checking for host updates.
+2023-02-20T15:37:28.352Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-02-20T15:38:28.402Z [Modules] Checking for host updates.
+2023-02-20T15:38:28.639Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:39:28.670Z [Modules] Checking for host updates.
+2023-02-20T15:39:28.865Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:40:28.895Z [Modules] Checking for host updates.
+2023-02-20T15:40:29.098Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:41:29.111Z [Modules] Checking for host updates.
+2023-02-20T15:41:29.313Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:42:29.344Z [Modules] Checking for host updates.
+2023-02-20T15:42:29.552Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:43:29.582Z [Modules] Checking for host updates.
+2023-02-20T15:43:29.778Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:44:29.807Z [Modules] Checking for host updates.
+2023-02-20T15:44:30.008Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:45:30.035Z [Modules] Checking for host updates.
+2023-02-20T15:45:30.237Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:46:30.267Z [Modules] Checking for host updates.
+2023-02-20T15:46:30.468Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:47:30.495Z [Modules] Checking for host updates.
+2023-02-20T15:47:30.690Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:48:30.719Z [Modules] Checking for host updates.
+2023-02-20T15:48:30.934Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:49:30.963Z [Modules] Checking for host updates.
+2023-02-20T15:49:31.164Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:50:31.194Z [Modules] Checking for host updates.
+2023-02-20T15:50:31.389Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:51:31.411Z [Modules] Checking for host updates.
+2023-02-20T15:51:31.612Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:52:31.642Z [Modules] Checking for host updates.
+2023-02-20T15:52:31.839Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:53:31.845Z [Modules] Checking for host updates.
+2023-02-20T15:53:32.051Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:54:32.082Z [Modules] Checking for host updates.
+2023-02-20T15:54:32.273Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:55:32.280Z [Modules] Checking for host updates.
+2023-02-20T15:55:32.475Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:56:32.505Z [Modules] Checking for host updates.
+2023-02-20T15:56:32.701Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:57:32.731Z [Modules] Checking for host updates.
+2023-02-20T15:57:32.926Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:58:32.956Z [Modules] Checking for host updates.
+2023-02-20T15:58:33.144Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T15:59:33.175Z [Modules] Checking for host updates.
+2023-02-20T15:59:33.362Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T16:00:33.393Z [Modules] Checking for host updates.
+2023-02-20T16:00:33.613Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T16:01:33.643Z [Modules] Checking for host updates.
+2023-02-20T16:01:33.837Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T16:02:33.868Z [Modules] Checking for host updates.
+2023-02-20T16:02:34.085Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T16:03:34.089Z [Modules] Checking for host updates.
+2023-02-20T16:03:34.320Z [Modules] Host update failed: Error [ERR_TLS_CERT_ALTNAME_INVALID]: Hostname/IP does not match certificate's altnames: Host: discord.com. is not in the cert's altnames: DNS:walledgarden.wowway.com
+2023-02-20T16:04:34.347Z [Modules] Checking for host updates.
+2023-02-20T16:04:37.560Z [Modules] Host is up to date.
+2023-02-20T16:04:37.561Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-02-20T16:04:38.081Z [Modules] No module updates available.
+2023-02-20T16:06:14.947Z [Modules] Checking for host updates.
+2023-02-20T16:06:17.092Z [Modules] Host is up to date.
+2023-02-20T16:06:17.092Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-02-20T16:06:18.721Z [Modules] No module updates available.
+2023-02-20T22:06:14.095Z [Modules] Checking for host updates.
+2023-02-20T22:06:14.246Z [Modules] Host is up to date.
+2023-02-20T22:06:14.246Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-02-20T22:06:14.280Z [Modules] No module updates available.
+2023-02-20T23:06:14.100Z [Modules] Checking for host updates.
+2023-02-20T23:06:14.213Z [Modules] Host is up to date.
+2023-02-20T23:06:14.213Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-02-20T23:06:14.264Z [Modules] No module updates available.
+2023-02-21T00:06:14.095Z [Modules] Checking for host updates.
+2023-02-21T00:06:14.206Z [Modules] Host is up to date.
+2023-02-21T00:06:14.206Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-02-21T00:06:14.263Z [Modules] No module updates available.
+2023-02-22T18:47:54.906Z [Modules] Modules initializing
+2023-02-22T18:47:54.906Z [Modules] Distribution: remote
+2023-02-22T18:47:54.906Z [Modules] Host updates: enabled
+2023-02-22T18:47:54.906Z [Modules] Module updates: enabled
+2023-02-22T18:47:54.906Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-02-22T18:47:54.906Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-02-22T18:47:54.906Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-02-22T18:47:55.044Z [Modules] No updates to install
+2023-02-22T18:47:55.045Z [Modules] Checking for host updates.
+2023-02-22T18:48:03.781Z [Modules] Host is up to date.
+2023-02-22T18:48:03.782Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-02-22T18:48:06.180Z [Modules] No module updates available.
+2023-02-24T20:29:14.180Z [Modules] Modules initializing
+2023-02-24T20:29:14.180Z [Modules] Distribution: remote
+2023-02-24T20:29:14.180Z [Modules] Host updates: enabled
+2023-02-24T20:29:14.181Z [Modules] Module updates: enabled
+2023-02-24T20:29:14.181Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-02-24T20:29:14.181Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-02-24T20:29:14.181Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-02-24T20:29:14.327Z [Modules] No updates to install
+2023-02-24T20:29:14.327Z [Modules] Checking for host updates.
+2023-02-24T20:29:14.515Z [Modules] Host is up to date.
+2023-02-24T20:29:14.515Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-02-24T20:29:14.593Z [Modules] No module updates available.
+2023-02-24T20:29:16.844Z [Modules] Checking for host updates.
+2023-02-24T20:29:16.956Z [Modules] Host is up to date.
+2023-02-24T20:29:16.956Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-02-24T20:29:16.957Z [Modules] No module updates available.
+2023-02-25T23:25:53.627Z [Modules] Modules initializing
+2023-02-25T23:25:53.627Z [Modules] Distribution: remote
+2023-02-25T23:25:53.627Z [Modules] Host updates: enabled
+2023-02-25T23:25:53.627Z [Modules] Module updates: enabled
+2023-02-25T23:25:53.627Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-02-25T23:25:53.627Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-02-25T23:25:53.627Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-02-25T23:25:53.771Z [Modules] No updates to install
+2023-02-25T23:25:53.771Z [Modules] Checking for host updates.
+2023-02-25T23:25:53.954Z [Modules] Host is up to date.
+2023-02-25T23:25:53.954Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-02-25T23:25:54.015Z [Modules] No module updates available.
+2023-02-25T23:25:56.230Z [Modules] Checking for host updates.
+2023-02-25T23:25:56.298Z [Modules] Host is up to date.
+2023-02-25T23:25:56.298Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-02-25T23:25:56.300Z [Modules] No module updates available.
+2023-03-03T06:36:09.856Z [Modules] Modules initializing
+2023-03-03T06:36:09.856Z [Modules] Distribution: remote
+2023-03-03T06:36:09.856Z [Modules] Host updates: enabled
+2023-03-03T06:36:09.856Z [Modules] Module updates: enabled
+2023-03-03T06:36:09.857Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-03-03T06:36:09.857Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-03-03T06:36:09.857Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-03-03T06:36:09.995Z [Modules] No updates to install
+2023-03-03T06:36:09.995Z [Modules] Checking for host updates.
+2023-03-03T06:36:10.173Z [Modules] Host is up to date.
+2023-03-03T06:36:10.174Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-03T06:36:10.205Z [Modules] No module updates available.
+2023-03-03T06:36:12.402Z [Modules] Checking for host updates.
+2023-03-03T06:36:12.481Z [Modules] Host is up to date.
+2023-03-03T06:36:12.481Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-03T06:36:12.482Z [Modules] No module updates available.
+2023-03-05T00:37:55.159Z [Modules] Modules initializing
+2023-03-05T00:37:55.159Z [Modules] Distribution: remote
+2023-03-05T00:37:55.159Z [Modules] Host updates: enabled
+2023-03-05T00:37:55.159Z [Modules] Module updates: enabled
+2023-03-05T00:37:55.159Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-03-05T00:37:55.159Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-03-05T00:37:55.159Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-03-05T00:37:55.311Z [Modules] No updates to install
+2023-03-05T00:37:55.312Z [Modules] Checking for host updates.
+2023-03-05T00:37:55.505Z [Modules] Host is up to date.
+2023-03-05T00:37:55.505Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-05T00:37:55.596Z [Modules] No module updates available.
+2023-03-05T00:37:57.822Z [Modules] Checking for host updates.
+2023-03-05T00:37:57.910Z [Modules] Host is up to date.
+2023-03-05T00:37:57.910Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-05T00:37:57.911Z [Modules] No module updates available.
+2023-03-05T01:37:57.827Z [Modules] Checking for host updates.
+2023-03-05T01:37:57.987Z [Modules] Host is up to date.
+2023-03-05T01:37:57.987Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-05T01:37:58.028Z [Modules] No module updates available.
+2023-03-05T02:37:57.827Z [Modules] Checking for host updates.
+2023-03-05T02:37:57.931Z [Modules] Host is up to date.
+2023-03-05T02:37:57.931Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-05T02:37:57.967Z [Modules] No module updates available.
+2023-03-05T03:37:57.822Z [Modules] Checking for host updates.
+2023-03-05T03:37:57.952Z [Modules] Host is up to date.
+2023-03-05T03:37:57.952Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-05T03:37:57.984Z [Modules] No module updates available.
+2023-03-05T04:37:57.827Z [Modules] Checking for host updates.
+2023-03-05T04:37:57.962Z [Modules] Host is up to date.
+2023-03-05T04:37:57.962Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-05T04:37:57.995Z [Modules] No module updates available.
+2023-03-05T05:37:57.827Z [Modules] Checking for host updates.
+2023-03-05T05:37:57.936Z [Modules] Host is up to date.
+2023-03-05T05:37:57.936Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-05T05:37:57.969Z [Modules] No module updates available.
+2023-03-05T06:37:57.827Z [Modules] Checking for host updates.
+2023-03-05T06:37:57.907Z [Modules] Host is up to date.
+2023-03-05T06:37:57.908Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-05T06:37:57.942Z [Modules] No module updates available.
+2023-03-05T22:58:52.902Z [Modules] Modules initializing
+2023-03-05T22:58:52.903Z [Modules] Distribution: remote
+2023-03-05T22:58:52.903Z [Modules] Host updates: enabled
+2023-03-05T22:58:52.903Z [Modules] Module updates: enabled
+2023-03-05T22:58:52.903Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-03-05T22:58:52.903Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-03-05T22:58:52.903Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-03-05T22:58:53.041Z [Modules] No updates to install
+2023-03-05T22:58:53.041Z [Modules] Checking for host updates.
+2023-03-05T22:58:53.227Z [Modules] Host is up to date.
+2023-03-05T22:58:53.227Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-05T22:58:53.269Z [Modules] No module updates available.
+2023-03-05T22:58:55.321Z [Modules] Checking for host updates.
+2023-03-05T22:58:55.396Z [Modules] Host is up to date.
+2023-03-05T22:58:55.396Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-05T22:58:55.397Z [Modules] No module updates available.
+2023-03-05T23:58:55.326Z [Modules] Checking for host updates.
+2023-03-05T23:58:55.430Z [Modules] Host is up to date.
+2023-03-05T23:58:55.430Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-05T23:58:55.465Z [Modules] No module updates available.
+2023-03-06T00:58:55.321Z [Modules] Checking for host updates.
+2023-03-06T00:58:55.527Z [Modules] Host is up to date.
+2023-03-06T00:58:55.527Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-06T00:58:55.572Z [Modules] No module updates available.
+2023-03-06T01:58:55.326Z [Modules] Checking for host updates.
+2023-03-06T01:58:55.436Z [Modules] Host is up to date.
+2023-03-06T01:58:55.436Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-06T01:58:55.475Z [Modules] No module updates available.
+2023-03-06T02:58:55.326Z [Modules] Checking for host updates.
+2023-03-06T02:58:55.452Z [Modules] Host is up to date.
+2023-03-06T02:58:55.452Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-06T02:58:55.487Z [Modules] No module updates available.
+2023-03-06T03:58:55.326Z [Modules] Checking for host updates.
+2023-03-06T03:58:55.471Z [Modules] Host is up to date.
+2023-03-06T03:58:55.471Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-06T03:58:55.512Z [Modules] No module updates available.
+2023-03-07T00:14:29.669Z [Modules] Modules initializing
+2023-03-07T00:14:29.670Z [Modules] Distribution: remote
+2023-03-07T00:14:29.670Z [Modules] Host updates: enabled
+2023-03-07T00:14:29.670Z [Modules] Module updates: enabled
+2023-03-07T00:14:29.670Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-03-07T00:14:29.670Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-03-07T00:14:29.670Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-03-07T00:14:29.807Z [Modules] No updates to install
+2023-03-07T00:14:29.807Z [Modules] Checking for host updates.
+2023-03-07T00:14:30.015Z [Modules] Host is up to date.
+2023-03-07T00:14:30.015Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-07T00:14:30.055Z [Modules] No module updates available.
+2023-03-07T00:14:32.414Z [Modules] Checking for host updates.
+2023-03-07T00:14:32.496Z [Modules] Host is up to date.
+2023-03-07T00:14:32.496Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-07T00:14:32.497Z [Modules] No module updates available.
+2023-03-17T18:25:52.205Z [Modules] Modules initializing
+2023-03-17T18:25:52.205Z [Modules] Distribution: remote
+2023-03-17T18:25:52.205Z [Modules] Host updates: enabled
+2023-03-17T18:25:52.205Z [Modules] Module updates: enabled
+2023-03-17T18:25:52.205Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-03-17T18:25:52.205Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-03-17T18:25:52.205Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-03-17T18:25:52.346Z [Modules] No updates to install
+2023-03-17T18:25:52.346Z [Modules] Checking for host updates.
+2023-03-17T18:25:52.514Z [Modules] Host is up to date.
+2023-03-17T18:25:52.514Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-17T18:25:52.563Z [Modules] No module updates available.
+2023-03-17T18:25:54.760Z [Modules] Checking for host updates.
+2023-03-17T18:25:54.849Z [Modules] Host is up to date.
+2023-03-17T18:25:54.849Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-17T18:25:54.851Z [Modules] No module updates available.
+2023-03-17T19:25:54.763Z [Modules] Checking for host updates.
+2023-03-17T19:25:54.896Z [Modules] Host is up to date.
+2023-03-17T19:25:54.896Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-17T19:25:54.936Z [Modules] No module updates available.
+2023-03-17T20:25:54.761Z [Modules] Checking for host updates.
+2023-03-17T20:25:54.905Z [Modules] Host is up to date.
+2023-03-17T20:25:54.905Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-17T20:25:54.945Z [Modules] No module updates available.
+2023-03-17T21:25:54.761Z [Modules] Checking for host updates.
+2023-03-17T21:25:54.892Z [Modules] Host is up to date.
+2023-03-17T21:25:54.892Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-17T21:25:54.928Z [Modules] No module updates available.
+2023-03-17T22:25:54.761Z [Modules] Checking for host updates.
+2023-03-17T22:25:54.963Z [Modules] Host is up to date.
+2023-03-17T22:25:54.963Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-17T22:25:55.038Z [Modules] No module updates available.
+2023-03-17T23:15:13.200Z [Modules] Modules initializing
+2023-03-17T23:15:13.200Z [Modules] Distribution: remote
+2023-03-17T23:15:13.200Z [Modules] Host updates: enabled
+2023-03-17T23:15:13.200Z [Modules] Module updates: enabled
+2023-03-17T23:15:13.200Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-03-17T23:15:13.200Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-03-17T23:15:13.200Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-03-17T23:15:13.292Z [Modules] No updates to install
+2023-03-17T23:15:13.292Z [Modules] Checking for host updates.
+2023-03-17T23:15:13.662Z [Modules] Host is up to date.
+2023-03-17T23:15:13.662Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-17T23:15:13.809Z [Modules] No module updates available.
+2023-03-17T23:15:49.408Z [Modules] Checking for host updates.
+2023-03-17T23:16:03.862Z [Modules] Modules initializing
+2023-03-17T23:16:03.862Z [Modules] Distribution: remote
+2023-03-17T23:16:03.862Z [Modules] Host updates: enabled
+2023-03-17T23:16:03.862Z [Modules] Module updates: enabled
+2023-03-17T23:16:03.862Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-03-17T23:16:03.862Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-03-17T23:16:03.862Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-03-17T23:16:03.956Z [Modules] No updates to install
+2023-03-17T23:16:03.956Z [Modules] Checking for host updates.
+2023-03-17T23:16:04.278Z [Modules] Host is up to date.
+2023-03-17T23:16:04.278Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-17T23:16:04.279Z [Modules] No module updates available.
+2023-03-17T23:16:32.927Z [Modules] Checking for host updates.
+2023-03-17T23:16:33.098Z [Modules] Host is up to date.
+2023-03-17T23:16:33.098Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-17T23:16:33.099Z [Modules] No module updates available.
+2023-03-17T23:16:34.373Z [Modules] Checking for host updates.
+2023-03-17T23:16:34.862Z [Modules] Host is up to date.
+2023-03-17T23:16:34.862Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-17T23:16:34.865Z [Modules] No module updates available.
+2023-03-18T00:16:34.380Z [Modules] Checking for host updates.
+2023-03-18T00:16:34.469Z [Modules] Host is up to date.
+2023-03-18T00:16:34.469Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T00:16:34.504Z [Modules] No module updates available.
+2023-03-18T01:16:34.375Z [Modules] Checking for host updates.
+2023-03-18T01:16:34.444Z [Modules] Host is up to date.
+2023-03-18T01:16:34.444Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T01:16:34.485Z [Modules] No module updates available.
+2023-03-18T03:46:21.762Z [Modules] Modules initializing
+2023-03-18T03:46:21.762Z [Modules] Distribution: remote
+2023-03-18T03:46:21.762Z [Modules] Host updates: enabled
+2023-03-18T03:46:21.763Z [Modules] Module updates: enabled
+2023-03-18T03:46:21.763Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-03-18T03:46:21.763Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-03-18T03:46:21.763Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-03-18T03:46:21.902Z [Modules] No updates to install
+2023-03-18T03:46:21.902Z [Modules] Checking for host updates.
+2023-03-18T03:46:22.082Z [Modules] Host is up to date.
+2023-03-18T03:46:22.082Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T03:46:22.115Z [Modules] No module updates available.
+2023-03-18T03:46:23.604Z [Modules] Checking for host updates.
+2023-03-18T03:46:23.688Z [Modules] Host is up to date.
+2023-03-18T03:46:23.688Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T03:46:23.689Z [Modules] No module updates available.
+2023-03-18T04:46:23.606Z [Modules] Checking for host updates.
+2023-03-18T04:46:23.717Z [Modules] Host is up to date.
+2023-03-18T04:46:23.717Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-18T04:46:23.747Z [Modules] No module updates available.
+2023-03-21T16:05:42.984Z [Modules] Modules initializing
+2023-03-21T16:05:42.985Z [Modules] Distribution: remote
+2023-03-21T16:05:42.985Z [Modules] Host updates: enabled
+2023-03-21T16:05:42.985Z [Modules] Module updates: enabled
+2023-03-21T16:05:42.985Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-03-21T16:05:42.985Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-03-21T16:05:42.985Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-03-21T16:05:43.130Z [Modules] No updates to install
+2023-03-21T16:05:43.130Z [Modules] Checking for host updates.
+2023-03-21T16:05:43.305Z [Modules] Host is up to date.
+2023-03-21T16:05:43.306Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-21T16:05:43.339Z [Modules] No module updates available.
+2023-03-21T16:05:44.748Z [Modules] Checking for host updates.
+2023-03-21T16:05:44.828Z [Modules] Host is up to date.
+2023-03-21T16:05:44.828Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-21T16:05:44.830Z [Modules] No module updates available.
+2023-03-21T17:05:44.750Z [Modules] Checking for host updates.
+2023-03-21T17:05:44.917Z [Modules] Host is up to date.
+2023-03-21T17:05:44.917Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-21T17:05:44.953Z [Modules] No module updates available.
+2023-03-23T09:33:50.901Z [Modules] Modules initializing
+2023-03-23T09:33:50.901Z [Modules] Distribution: remote
+2023-03-23T09:33:50.902Z [Modules] Host updates: enabled
+2023-03-23T09:33:50.902Z [Modules] Module updates: enabled
+2023-03-23T09:33:50.902Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-03-23T09:33:50.902Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-03-23T09:33:50.902Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-03-23T09:33:51.042Z [Modules] No updates to install
+2023-03-23T09:33:51.042Z [Modules] Checking for host updates.
+2023-03-23T09:33:51.222Z [Modules] Host is up to date.
+2023-03-23T09:33:51.222Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-23T09:33:51.288Z [Modules] No module updates available.
+2023-03-23T09:33:57.836Z [Modules] Checking for host updates.
+2023-03-23T09:33:57.908Z [Modules] Host is up to date.
+2023-03-23T09:33:57.908Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-23T09:33:57.909Z [Modules] No module updates available.
+2023-03-25T07:20:25.250Z [Modules] Modules initializing
+2023-03-25T07:20:25.250Z [Modules] Distribution: remote
+2023-03-25T07:20:25.250Z [Modules] Host updates: enabled
+2023-03-25T07:20:25.251Z [Modules] Module updates: enabled
+2023-03-25T07:20:25.251Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-03-25T07:20:25.251Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-03-25T07:20:25.251Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-03-25T07:20:25.395Z [Modules] No updates to install
+2023-03-25T07:20:25.395Z [Modules] Checking for host updates.
+2023-03-25T07:20:25.565Z [Modules] Host is up to date.
+2023-03-25T07:20:25.566Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-25T07:20:25.639Z [Modules] No module updates available.
+2023-03-25T07:20:27.695Z [Modules] Checking for host updates.
+2023-03-25T07:20:27.782Z [Modules] Host is up to date.
+2023-03-25T07:20:27.782Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-25T07:20:27.783Z [Modules] No module updates available.
+2023-03-27T00:35:41.704Z [Modules] Modules initializing
+2023-03-27T00:35:41.704Z [Modules] Distribution: remote
+2023-03-27T00:35:41.704Z [Modules] Host updates: enabled
+2023-03-27T00:35:41.704Z [Modules] Module updates: enabled
+2023-03-27T00:35:41.705Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-03-27T00:35:41.705Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-03-27T00:35:41.705Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-03-27T00:35:41.894Z [Modules] No updates to install
+2023-03-27T00:35:41.894Z [Modules] Checking for host updates.
+2023-03-27T00:35:42.097Z [Modules] Host is up to date.
+2023-03-27T00:35:42.098Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-27T00:35:42.134Z [Modules] No module updates available.
+2023-03-27T00:35:44.260Z [Modules] Checking for host updates.
+2023-03-27T00:35:44.345Z [Modules] Host is up to date.
+2023-03-27T00:35:44.345Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-27T00:35:44.347Z [Modules] No module updates available.
+2023-03-29T16:51:10.865Z [Modules] Modules initializing
+2023-03-29T16:51:10.865Z [Modules] Distribution: remote
+2023-03-29T16:51:10.865Z [Modules] Host updates: enabled
+2023-03-29T16:51:10.865Z [Modules] Module updates: enabled
+2023-03-29T16:51:10.866Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-03-29T16:51:10.866Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-03-29T16:51:10.866Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-03-29T16:51:11.046Z [Modules] No updates to install
+2023-03-29T16:51:11.046Z [Modules] Checking for host updates.
+2023-03-29T16:51:11.237Z [Modules] Host is up to date.
+2023-03-29T16:51:11.237Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-29T16:51:11.324Z [Modules] No module updates available.
+2023-03-29T16:51:13.543Z [Modules] Checking for host updates.
+2023-03-29T16:51:13.634Z [Modules] Host is up to date.
+2023-03-29T16:51:13.634Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-03-29T16:51:13.635Z [Modules] No module updates available.
+2023-04-02T00:07:12.542Z [Modules] Modules initializing
+2023-04-02T00:07:12.542Z [Modules] Distribution: remote
+2023-04-02T00:07:12.542Z [Modules] Host updates: enabled
+2023-04-02T00:07:12.542Z [Modules] Module updates: enabled
+2023-04-02T00:07:12.543Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-04-02T00:07:12.543Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-04-02T00:07:12.543Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-04-02T00:07:12.729Z [Modules] No updates to install
+2023-04-02T00:07:12.729Z [Modules] Checking for host updates.
+2023-04-02T00:07:12.935Z [Modules] Host update is available. Manual update required!
+2023-04-02T00:11:05.626Z [Modules] Modules initializing
+2023-04-02T00:11:05.627Z [Modules] Distribution: remote
+2023-04-02T00:11:05.627Z [Modules] Host updates: enabled
+2023-04-02T00:11:05.627Z [Modules] Module updates: enabled
+2023-04-02T00:11:05.627Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-04-02T00:11:05.627Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-04-02T00:11:05.627Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-04-02T00:11:05.718Z [Modules] No updates to install
+2023-04-02T00:11:05.718Z [Modules] Checking for host updates.
+2023-04-02T00:11:05.898Z [Modules] Host update is available. Manual update required!
+2023-04-02T00:53:25.080Z [Modules] Modules initializing
+2023-04-02T00:53:25.080Z [Modules] Distribution: remote
+2023-04-02T00:53:25.080Z [Modules] Host updates: enabled
+2023-04-02T00:53:25.080Z [Modules] Module updates: enabled
+2023-04-02T00:53:25.080Z [Modules] Module install path: /home/cm/.config/discord/0.0.25/modules
+2023-04-02T00:53:25.080Z [Modules] Module installed file path: /home/cm/.config/discord/0.0.25/modules/installed.json
+2023-04-02T00:53:25.080Z [Modules] Module download path: /home/cm/.config/discord/0.0.25/modules/pending
+2023-04-02T00:53:25.171Z [Modules] No updates to install
+2023-04-02T00:53:25.172Z [Modules] Checking for host updates.
+2023-04-02T00:53:25.334Z [Modules] Host update is available. Manual update required!

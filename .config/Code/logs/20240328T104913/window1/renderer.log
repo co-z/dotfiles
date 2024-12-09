@@ -1,0 +1,5 @@
+2024-03-28 10:49:13.705 [info] Started local extension host with pid 25901.
+2024-03-28 10:49:14.063 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2024-03-28 10:49:16.518 [info] [perf] Render performance baseline is 24ms
+2024-03-28 10:51:33.420 [error] [text file model] handleSaveError(38) - exit - resulted in a save error: Error: Unable to write file '/home/cm/.config/sway/config' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/cm/.config/sway/config') file:///home/cm/.config/sway/config
+2024-03-28 10:51:35.140 [error] [text file model] handleSaveError(38) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///home/cm/.config/sway/config

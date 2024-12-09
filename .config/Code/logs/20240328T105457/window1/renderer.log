@@ -1,0 +1,9 @@
+2024-03-28 10:54:58.534 [info] Started local extension host with pid 31953.
+2024-03-28 10:54:59.035 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2024-03-28 10:55:01.434 [info] [perf] Render performance baseline is 23ms
+2024-03-28 10:55:02.642 [info] [lifecycle]: Shutdown was prevented by final veto (id: veto.backups)
+2024-03-28 10:55:09.861 [error] [text file model] handleSaveError(5) - exit - resulted in a save error: Error: Unable to write file '/home/cm/.config/sway/config' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/cm/.config/sway/config') file:///home/cm/.config/sway/config
+2024-03-28 10:55:13.031 [error] [text file model] handleSaveError(5) - exit - resulted in a save error: Error: User did not grant permission. file:///home/cm/.config/sway/config
+2024-03-28 10:55:15.425 [error] [text file model] handleSaveError(9) - exit - resulted in a save error: Error: Unable to write file '/home/cm/.config/sway/config' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/cm/.config/sway/config') file:///home/cm/.config/sway/config
+2024-03-28 11:00:17.381 [error] [text file model] handleSaveError(85) - exit - resulted in a save error: Error: Unable to write file '/home/cm/.config/sway/config' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/cm/.config/sway/config') file:///home/cm/.config/sway/config
+2024-03-28 11:01:01.360 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups

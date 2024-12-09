@@ -1,0 +1,174 @@
+2024-03-28 10:45:26.422 [info] Deleted uninstalled extension from disk james-yu.latex-workshop /home/cm/.vscode/extensions/james-yu.latex-workshop-9.8.2
+2024-03-28 10:45:26.422 [info] Deleted uninstalled extension from disk ms-python.python /home/cm/.vscode/extensions/ms-python.python-2023.6.0
+2024-03-28 10:45:26.422 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/cm/.vscode/extensions/ms-python.vscode-pylance-2023.3.40
+2024-03-28 10:45:26.422 [info] Deleted uninstalled extension from disk ms-toolsai.jupyter /home/cm/.vscode/extensions/ms-toolsai.jupyter-2023.3.1000892223
+2024-03-28 10:45:26.510 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4960)
+    at E.t (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at y.value (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.fe (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30382)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-03-28 10:45:30.568 [info] Getting Manifest... batisteo.vscode-django
+2024-03-28 10:45:30.568 [info] Getting Manifest... donjayamanne.python-environment-manager
+2024-03-28 10:45:30.569 [info] Getting Manifest... ecmel.vscode-html-css
+2024-03-28 10:45:30.570 [info] Getting Manifest... james-yu.latex-workshop
+2024-03-28 10:45:30.570 [info] Getting Manifest... mathematic.vscode-latex
+2024-03-28 10:45:30.571 [info] Getting Manifest... ms-python.python
+2024-03-28 10:45:30.571 [info] Getting Manifest... ms-python.vscode-pylance
+2024-03-28 10:45:30.572 [info] Getting Manifest... ms-toolsai.jupyter
+2024-03-28 10:45:30.572 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2024-03-28 10:45:30.573 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2024-03-28 10:45:30.573 [info] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+2024-03-28 10:45:30.574 [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+2024-03-28 10:45:30.575 [info] Getting Manifest... yzhang.markdown-all-in-one
+2024-03-28 10:45:30.709 [info] Installing extension: ms-toolsai.jupyter
+2024-03-28 10:45:30.709 [info] Installing extension: ms-toolsai.jupyter-renderers
+2024-03-28 10:45:30.722 [info] Installing extension: ms-toolsai.jupyter-keymap
+2024-03-28 10:45:30.723 [info] Installing extension: yzhang.markdown-all-in-one
+2024-03-28 10:45:30.724 [info] Installing extension: ms-python.python
+2024-03-28 10:45:30.725 [info] Installing extension: ms-python.vscode-pylance
+2024-03-28 10:45:30.729 [info] Installing extension: mathematic.vscode-latex
+2024-03-28 10:45:30.729 [info] Installing extension: batisteo.vscode-django
+2024-03-28 10:45:30.730 [info] Installing extension: visualstudioexptteam.vscodeintellicode
+2024-03-28 10:45:30.731 [info] Installing extension: visualstudioexptteam.intellicode-api-usage-examples
+2024-03-28 10:45:30.732 [info] Installing extension: ecmel.vscode-html-css
+2024-03-28 10:45:30.733 [info] Installing extension: james-yu.latex-workshop
+2024-03-28 10:45:30.733 [info] Installing extension: donjayamanne.python-environment-manager
+2024-03-28 10:45:31.694 [info] Getting Manifest... ms-python.debugpy
+2024-03-28 10:45:31.743 [info] Getting Manifest... ms-python.python
+2024-03-28 10:45:31.964 [info] Getting Manifest... ms-python.debugpy
+2024-03-28 10:45:32.125 [info] Installing extension: ms-python.debugpy
+2024-03-28 10:45:32.192 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-03-28 10:45:32.192 [info] Waiting for already requested installing extension ms-python.debugpy ms-python.vscode-pylance
+2024-03-28 10:45:33.556 [info] Extension signature is verified: ms-toolsai.jupyter-keymap
+2024-03-28 10:45:33.572 [info] Extracted extension to file:///home/cm/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.2: ms-toolsai.jupyter-keymap
+2024-03-28 10:45:33.578 [info] Extension signature is verified: ecmel.vscode-html-css
+2024-03-28 10:45:33.579 [info] Extension signature is verified: ms-toolsai.jupyter-renderers
+2024-03-28 10:45:33.580 [info] Extension signature is verified: visualstudioexptteam.intellicode-api-usage-examples
+2024-03-28 10:45:33.581 [info] Extension signature is verified: yzhang.markdown-all-in-one
+2024-03-28 10:45:33.581 [info] Extension signature is verified: batisteo.vscode-django
+2024-03-28 10:45:33.583 [info] Renamed to /home/cm/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.2
+2024-03-28 10:45:33.587 [info] Extracting extension completed. ms-toolsai.jupyter-keymap
+2024-03-28 10:45:33.600 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2024-03-28 10:45:33.602 [info] Extension signature is verified: ms-toolsai.jupyter
+2024-03-28 10:45:33.607 [info] Marked extension as uninstalled ms-toolsai.jupyter-keymap-1.1.0
+2024-03-28 10:45:33.608 [info] Extracted extension to file:///home/cm/.vscode/extensions/ecmel.vscode-html-css-2.0.9: ecmel.vscode-html-css
+2024-03-28 10:45:33.617 [info] Renamed to /home/cm/.vscode/extensions/ecmel.vscode-html-css-2.0.9
+2024-03-28 10:45:33.620 [info] Extracting extension completed. ecmel.vscode-html-css
+2024-03-28 10:45:33.633 [info] Extension installed successfully: ecmel.vscode-html-css
+2024-03-28 10:45:33.642 [info] Marked extension as uninstalled ecmel.vscode-html-css-1.13.1
+2024-03-28 10:45:33.669 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/cm/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cm/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-28 10:45:33.701 [info] Extracted extension to file:///home/cm/.vscode/extensions/yzhang.markdown-all-in-one-3.6.2: yzhang.markdown-all-in-one
+2024-03-28 10:45:33.710 [info] Renamed to /home/cm/.vscode/extensions/yzhang.markdown-all-in-one-3.6.2
+2024-03-28 10:45:33.712 [info] Extracting extension completed. yzhang.markdown-all-in-one
+2024-03-28 10:45:33.728 [info] Extension installed successfully: yzhang.markdown-all-in-one
+2024-03-28 10:45:33.733 [info] Marked extension as uninstalled yzhang.markdown-all-in-one-3.5.1
+2024-03-28 10:45:33.762 [info] Extension signature is verified: donjayamanne.python-environment-manager
+2024-03-28 10:45:33.763 [info] Extracted extension to file:///home/cm/.vscode/extensions/batisteo.vscode-django-1.15.0: batisteo.vscode-django
+2024-03-28 10:45:33.770 [info] Renamed to /home/cm/.vscode/extensions/batisteo.vscode-django-1.15.0
+2024-03-28 10:45:33.772 [info] Extracting extension completed. batisteo.vscode-django
+2024-03-28 10:45:33.787 [info] Extension installed successfully: batisteo.vscode-django
+2024-03-28 10:45:33.791 [info] Marked extension as uninstalled batisteo.vscode-django-1.10.0
+2024-03-28 10:45:33.866 [info] Extracted extension to file:///home/cm/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.8: visualstudioexptteam.intellicode-api-usage-examples
+2024-03-28 10:45:33.868 [info] Extension signature is verified: james-yu.latex-workshop
+2024-03-28 10:45:33.884 [info] Renamed to /home/cm/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.8
+2024-03-28 10:45:33.886 [info] Extracting extension completed. visualstudioexptteam.intellicode-api-usage-examples
+2024-03-28 10:45:33.901 [info] Extension installed successfully: visualstudioexptteam.intellicode-api-usage-examples
+2024-03-28 10:45:33.905 [info] Marked extension as uninstalled visualstudioexptteam.intellicode-api-usage-examples-0.2.7
+2024-03-28 10:45:33.941 [info] Extension signature is verified: mathematic.vscode-latex
+2024-03-28 10:45:34.001 [info] Extracted extension to file:///home/cm/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.17: ms-toolsai.jupyter-renderers
+2024-03-28 10:45:34.004 [info] Renamed to /home/cm/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.17
+2024-03-28 10:45:34.007 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2024-03-28 10:45:34.009 [info] Extension signature is verified: ms-python.debugpy
+2024-03-28 10:45:34.013 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2024-03-28 10:45:34.016 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.15
+2024-03-28 10:45:34.071 [info] Extracted extension to file:///home/cm/.vscode/extensions/ms-toolsai.jupyter-2024.2.0-linux-x64: ms-toolsai.jupyter
+2024-03-28 10:45:34.076 [info] Renamed to /home/cm/.vscode/extensions/ms-toolsai.jupyter-2024.2.0-linux-x64
+2024-03-28 10:45:34.080 [info] Extracting extension completed. ms-toolsai.jupyter
+2024-03-28 10:45:34.087 [info] Extension installed successfully: ms-toolsai.jupyter
+2024-03-28 10:45:34.092 [info] Marked extension as uninstalled ms-toolsai.jupyter-2023.4.1011241018-linux-x64
+2024-03-28 10:45:34.134 [info] Extracted extension to file:///home/cm/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4: donjayamanne.python-environment-manager
+2024-03-28 10:45:34.137 [info] Renamed to /home/cm/.vscode/extensions/donjayamanne.python-environment-manager-1.2.4
+2024-03-28 10:45:34.140 [info] Extracting extension completed. donjayamanne.python-environment-manager
+2024-03-28 10:45:34.143 [info] Extension signature is verified: ms-python.python
+2024-03-28 10:45:34.147 [info] Extension installed successfully: donjayamanne.python-environment-manager
+2024-03-28 10:45:34.152 [info] Marked extension as uninstalled donjayamanne.python-environment-manager-1.0.4
+2024-03-28 10:45:34.162 [info] Extension signature is verified: ms-python.vscode-pylance
+2024-03-28 10:45:34.487 [info] Extracted extension to file:///home/cm/.vscode/extensions/ms-python.debugpy-2024.2.0-linux-x64: ms-python.debugpy
+2024-03-28 10:45:34.492 [info] Renamed to /home/cm/.vscode/extensions/ms-python.debugpy-2024.2.0-linux-x64
+2024-03-28 10:45:34.493 [info] Extracting extension completed. ms-python.debugpy
+2024-03-28 10:45:34.627 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/cm/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cm/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-28 10:45:34.787 [info] Extracted extension to file:///home/cm/.vscode/extensions/mathematic.vscode-latex-1.3.0: mathematic.vscode-latex
+2024-03-28 10:45:34.888 [info] Renamed to /home/cm/.vscode/extensions/mathematic.vscode-latex-1.3.0
+2024-03-28 10:45:34.890 [info] Extracting extension completed. mathematic.vscode-latex
+2024-03-28 10:45:34.906 [info] Extension installed successfully: mathematic.vscode-latex
+2024-03-28 10:45:34.909 [info] Marked extension as uninstalled mathematic.vscode-latex-1.2.0
+2024-03-28 10:45:34.967 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/cm/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cm/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-28 10:45:35.274 [info] Extracted extension to file:///home/cm/.vscode/extensions/james-yu.latex-workshop-9.19.1: james-yu.latex-workshop
+2024-03-28 10:45:35.293 [info] Renamed to /home/cm/.vscode/extensions/james-yu.latex-workshop-9.19.1
+2024-03-28 10:45:35.295 [info] Extracting extension completed. james-yu.latex-workshop
+2024-03-28 10:45:35.310 [info] Extension installed successfully: james-yu.latex-workshop
+2024-03-28 10:45:35.313 [info] Marked extension as uninstalled james-yu.latex-workshop-9.10.0
+2024-03-28 10:45:35.372 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/cm/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cm/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-28 10:45:35.612 [info] Extension signature is verified: visualstudioexptteam.vscodeintellicode
+2024-03-28 10:45:36.152 [info] Extracted extension to file:///home/cm/.vscode/extensions/ms-python.python-2024.2.1: ms-python.python
+2024-03-28 10:45:36.155 [info] Renamed to /home/cm/.vscode/extensions/ms-python.python-2024.2.1
+2024-03-28 10:45:36.158 [info] Extracting extension completed. ms-python.python
+2024-03-28 10:45:36.163 [info] Extension installed successfully: ms-python.debugpy
+2024-03-28 10:45:36.163 [info] Extension installed successfully: ms-python.python
+2024-03-28 10:45:36.163 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-03-28 10:45:36.163 [info] Finished waiting for already requested installing extension ms-python.debugpy ms-python.vscode-pylance
+2024-03-28 10:45:36.168 [info] Marked extension as uninstalled ms-python.python-2023.8.0
+2024-03-28 10:45:36.219 [info] Extracted extension to file:///home/cm/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.1: visualstudioexptteam.vscodeintellicode
+2024-03-28 10:45:36.221 [info] Renamed to /home/cm/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.1
+2024-03-28 10:45:36.222 [info] Extracting extension completed. visualstudioexptteam.vscodeintellicode
+2024-03-28 10:45:36.227 [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+2024-03-28 10:45:36.229 [info] Marked extension as uninstalled visualstudioexptteam.vscodeintellicode-1.2.30
+2024-03-28 10:45:36.236 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/cm/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cm/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-28 10:45:37.090 [info] Extracted extension to file:///home/cm/.vscode/extensions/ms-python.vscode-pylance-2024.3.2: ms-python.vscode-pylance
+2024-03-28 10:45:37.111 [info] Renamed to /home/cm/.vscode/extensions/ms-python.vscode-pylance-2024.3.2
+2024-03-28 10:45:37.113 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-03-28 10:45:37.118 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-03-28 10:45:37.121 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.5.30
+2024-03-28 10:45:37.192 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/cm/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cm/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/snap/code/155/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)

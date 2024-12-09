@@ -1,0 +1,35 @@
+2023-05-21 22:55:12.621 [info] Getting Manifest... james-yu.latex-workshop
+2023-05-21 22:55:12.622 [info] Getting Manifest... ms-python.python
+2023-05-21 22:55:12.623 [info] Getting Manifest... ms-python.vscode-pylance
+2023-05-21 22:55:12.623 [info] Getting Manifest... ms-toolsai.jupyter
+2023-05-21 22:55:12.760 [info] Installing extension: ms-python.vscode-pylance
+2023-05-21 22:55:12.766 [info] Installing extension: ms-python.python
+2023-05-21 22:55:12.768 [info] Installing extension: james-yu.latex-workshop
+2023-05-21 22:55:12.769 [info] Installing extension: ms-toolsai.jupyter
+2023-05-21 22:55:13.200 [info] Getting Manifest... ms-python.python
+2023-05-21 22:55:13.251 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-05-21 22:55:14.847 [info] Extension signature is verified: ms-python.python
+2023-05-21 22:55:14.854 [info] Extension signature is verified: ms-toolsai.jupyter
+2023-05-21 22:55:14.855 [info] Extension signature is verified: james-yu.latex-workshop
+2023-05-21 22:55:14.868 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-05-21 22:55:15.377 [info] Extracted extension to /home/cm/.vscode/extensions/.14822081-561c-4a29-8cc8-5efbe3dc0685: ms-toolsai.jupyter
+2023-05-21 22:55:15.382 [info] Renamed to /home/cm/.vscode/extensions/ms-toolsai.jupyter-2023.4.1011241018-linux-x64
+2023-05-21 22:55:15.386 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-05-21 22:55:15.397 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-05-21 22:55:15.402 [info] Marked extension as uninstalled ms-toolsai.jupyter-2023.3.1000892223
+2023-05-21 22:55:16.243 [info] Extracted extension to /home/cm/.vscode/extensions/.8dfce8db-1566-4dae-85fc-5b3b6686a6cc: james-yu.latex-workshop
+2023-05-21 22:55:16.253 [info] Renamed to /home/cm/.vscode/extensions/james-yu.latex-workshop-9.10.0
+2023-05-21 22:55:16.254 [info] Extracting extension completed. james-yu.latex-workshop
+2023-05-21 22:55:16.259 [info] Extension installed successfully: james-yu.latex-workshop
+2023-05-21 22:55:16.261 [info] Marked extension as uninstalled james-yu.latex-workshop-9.8.2
+2023-05-21 22:55:16.701 [info] Extracted extension to /home/cm/.vscode/extensions/.f42b2ed0-86c8-4bc8-b68b-b38a7ebc4992: ms-python.python
+2023-05-21 22:55:16.708 [info] Renamed to /home/cm/.vscode/extensions/ms-python.python-2023.8.0
+2023-05-21 22:55:16.711 [info] Extracting extension completed. ms-python.python
+2023-05-21 22:55:16.716 [info] Extension installed successfully: ms-python.python
+2023-05-21 22:55:16.716 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-05-21 22:55:16.719 [info] Marked extension as uninstalled ms-python.python-2023.6.0
+2023-05-21 22:55:17.371 [info] Extracted extension to /home/cm/.vscode/extensions/.c362f4ac-08d4-4290-9766-305ff3c646cb: ms-python.vscode-pylance
+2023-05-21 22:55:17.379 [info] Renamed to /home/cm/.vscode/extensions/ms-python.vscode-pylance-2023.5.30
+2023-05-21 22:55:17.381 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-05-21 22:55:17.385 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-05-21 22:55:17.386 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.3.40
