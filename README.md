@@ -1,3 +1,3 @@
 # mydotfiles
 
-Arch Linux Dotfiles\
+Arch Linux Dotfiles
