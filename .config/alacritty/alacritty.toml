@@ -1,0 +1,49 @@
+general.live_config_reload = true
+# General settings
+general.import = ["~/.config/alacritty/themes/themes/gruvbox_material_medium_dark.toml"]
+
+[window]
+padding = { x = 5, y = 5 }
+dynamic_padding = true
+opacity = 0.9
+
+[font]
+size = 11.0
+normal = { family = "Cascadia Code", style = "Regular" }
+
+#[colors.primary]
+#foreground = "#cdd6f4"
+#background = "#1e1e2e"
+
+#[colors.cursor]
+#text = "#11111b"
+#cursor = "#f5e0dc"
+
+#[colors.selection]
+#text = "#cdd6f4"
+#background = "#353748"
+
+#[colors.normal]
+#gblack = "#45475a"
+# gred = "#f38ba8"
+# ggreen = "#a6e3a1"
+#gyellow = "#f9e2af"
+#gblue = "#89b4fa"
+#magenta = "#f5c2e7"
+#cyan = "#94e2d5"
+#gwhite = "#a6adc8"
+
+#[colors.bright]
+#gblack = "#585b70"
+#gred = "#f37799"
+#ggreen = "#89d88b"
+#gyellow = "#ebd391"
+#gblue = "#74a8fc"
+#magenta = "#f2aede"
+#cyan = "#6bd7ca"
+#gwhite = "#bac2de"
+[selection]
+save_to_clipboard = true
+
+[cursor]
+style = { shape = "Block", blinking = "On" }
