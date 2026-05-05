@@ -1,0 +1,68 @@
+00:00:00.000103 main     VirtualBox XPCOM Server 7.2.6 r172322 linux.amd64 (Jan 15 2026 14:44:00) release log
+00:00:00.000106 main     Log opened 2026-04-17T00:08:40.127154000Z
+00:00:00.000106 main     Build Type: release
+00:00:00.000110 main     OS Product: Linux
+00:00:00.000111 main     OS Release: 6.19.11-arch1-1
+00:00:00.000111 main     OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 02 Apr 2026 23:33:01 +0000
+00:00:00.000125 main     DMI Product Name: MS-7C79
+00:00:00.000130 main     DMI Product Version: 1.0
+00:00:00.000134 main     Firmware type: UEFI
+00:00:00.000315 main     Secure Boot: Disabled
+00:00:00.000338 main     Host RAM: 32005MB (31.2GB) total, 27522MB (26.8GB) available
+00:00:00.000341 main     Executable: /opt/VirtualBox/VBoxSVC
+00:00:00.000341 main     Process ID: 214386
+00:00:00.000342 main     Package type: LINUX_64BITS_GENERIC
+00:00:00.001974 main     IPC socket path: /tmp/.vbox-chris-ipc/ipcd
+00:00:00.002829 DCon01   VirtualBox: object creation starts
+00:00:00.002865 DCon01   Home directory: '/home/chris/.config/VirtualBox'
+00:00:00.008618 DCon01   HostDnsMonitor: initializing
+00:00:00.008704 DCon01   NAT: resolv.conf: nameserver 192.168.1.1
+00:00:00.008711 DCon01   HostDnsMonitor: updating information
+00:00:00.008716 DCon01   HostDnsMonitor: old information
+00:00:00.008716 DCon01     no server entries
+00:00:00.008717 DCon01     no domain set
+00:00:00.008718 DCon01     no search string entries
+00:00:00.008719 DCon01   HostDnsMonitor: new information
+00:00:00.008719 DCon01     server 1: 192.168.1.1
+00:00:00.008720 DCon01     no domain set
+00:00:00.008721 DCon01     no search string entries
+00:00:00.009302 DCon01   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.009401 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.009455 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.009885 DCon01   VirtualBox: object created
+00:00:00.460257 DCon03   Saving settings file "/home/chris/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.474119 DCon03   Finished saving settings file "/home/chris/.config/VirtualBox/VirtualBox.xml"
+00:00:00.474256 DCon03   Saving settings file "/home/chris/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.476960 DCon03   Finished saving settings file "/home/chris/.config/VirtualBox/VirtualBox.xml"
+00:00:00.477046 DCon03   Saving settings file "/home/chris/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.479718 DCon03   Finished saving settings file "/home/chris/.config/VirtualBox/VirtualBox.xml"
+00:00:00.489253 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:00:00.765783 DCon03   Saving settings file "/home/chris/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.768896 DCon03   Finished saving settings file "/home/chris/.config/VirtualBox/VirtualBox.xml"
+00:00:02.982787 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:15:04.003219 dns-monitor HostDnsMonitor: updating information
+00:15:04.004907 dns-monitor HostDnsMonitor: old information
+00:15:04.004918 dns-monitor   server 1: 192.168.1.1
+00:15:04.004922 dns-monitor   no domain set
+00:15:04.004924 dns-monitor   no search string entries
+00:15:04.004925 dns-monitor HostDnsMonitor: new information
+00:15:04.004927 dns-monitor   no server entries
+00:15:04.004928 dns-monitor   no domain set
+00:15:04.004930 dns-monitor   no search string entries
+00:15:43.107521 dns-monitor NAT: resolv.conf: nameserver 192.168.1.1
+00:15:43.107539 dns-monitor HostDnsMonitor: updating information
+00:15:43.107557 dns-monitor HostDnsMonitor: old information
+00:15:43.107558 dns-monitor   no server entries
+00:15:43.107559 dns-monitor   no domain set
+00:15:43.107560 dns-monitor   no search string entries
+00:15:43.107560 dns-monitor HostDnsMonitor: new information
+00:15:43.107561 dns-monitor   server 1: 192.168.1.1
+00:15:43.107562 dns-monitor   no domain set
+00:15:43.107562 dns-monitor   no search string entries
+00:19:50.528991 DCon27   Saving settings file "/home/chris/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:19:50.532127 DCon27   Finished saving settings file "/home/chris/.config/VirtualBox/VirtualBox.xml"
+00:19:56.038994 main     VirtualBox: object deletion starts
+00:19:56.040471 main     HostDnsMonitor: shutting down ...
+00:19:56.042419 main     HostDnsMonitor: shut down
+00:19:56.063632 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:19:56.063689 main     VirtualBox: object deleted

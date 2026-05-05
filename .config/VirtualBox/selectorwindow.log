@@ -1,0 +1,22 @@
+00:00:00.133957 VirtualBox GUI VM Selector Window 7.2.6 r172322 linux.amd64 (Jan 15 2026 14:44:00) release log
+00:00:00.133958 Log opened 2026-04-17T00:08:40.207853000Z
+00:00:00.133958 Build Type: release
+00:00:00.133961 OS Product: Linux
+00:00:00.133961 OS Release: 6.19.11-arch1-1
+00:00:00.133962 OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 02 Apr 2026 23:33:01 +0000
+00:00:00.133976 DMI Product Name: MS-7C79
+00:00:00.133980 DMI Product Version: 1.0
+00:00:00.133986 Firmware type: UEFI
+00:00:00.134148 Secure Boot: Disabled
+00:00:00.134173 Host RAM: 32005MB (31.2GB) total, 27508MB (26.8GB) available
+00:00:00.134176 Executable: /opt/VirtualBox/VirtualBox
+00:00:00.134176 Process ID: 214363
+00:00:00.134176 Package type: LINUX_64BITS_GENERIC
+00:00:00.134195 Qt version: 6.8.0
+00:00:00.134476 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.137091 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.137098 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.536016 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 2560x226 x 1920x1080
+00:00:00.536094 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 2560x1392
+00:19:50.579970 GUI: UICommon: Handling aboutToQuit request..
+00:19:51.095854 GUI: UICommon: aboutToQuit request handled!

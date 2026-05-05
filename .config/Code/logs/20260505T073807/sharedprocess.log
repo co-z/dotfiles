@@ -1,0 +1,25 @@
+2026-05-05 07:38:09.045 [info] Removing stale auto-update builtin extensions: github.copilot-chat@0.44.2, github.copilot-chat@0.45.1
+2026-05-05 07:38:09.100 [error] Error: Unable to read file '/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/package.json' (Error: Unable to resolve nonexistent file '/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/package.json')
+    at Ci.restoreReadError (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:109787)
+    at Ci.doReadFileStream (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:109570)
+    at async Ci.doReadFile (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:108834)
+    at async Zs.scanExtensionManifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:54260)
+    at async Zs.scanExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:52459)
+    at async Na.scanExistingExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:42584)
+    at async Pc.scanUserExtensionAtLocation (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:85034)
+    at async Promise.all (index 1)
+    at async _p.onDidRemoveExtensions (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:70405)
+2026-05-05 07:38:09.100 [info] Extension not found at the location file:///home/chris/.vscode/extensions/github.copilot-chat-0.45.1
+2026-05-05 07:38:09.101 [error] Error: Unable to read file '/home/chris/.vscode/extensions/github.copilot-chat-0.44.2/package.json' (Error: Unable to resolve nonexistent file '/home/chris/.vscode/extensions/github.copilot-chat-0.44.2/package.json')
+    at Ci.restoreReadError (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:109787)
+    at Ci.doReadFileStream (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:109570)
+    at async Ci.doReadFile (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:108834)
+    at async Zs.scanExtensionManifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:54260)
+    at async Zs.scanExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:52459)
+    at async Na.scanExistingExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:42584)
+    at async Pc.scanUserExtensionAtLocation (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:85034)
+    at async Promise.all (index 0)
+    at async _p.onDidRemoveExtensions (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:70405)
+2026-05-05 07:38:09.101 [info] Extension not found at the location file:///home/chris/.vscode/extensions/github.copilot-chat-0.44.2
+2026-05-05 07:38:09.111 [info] Deleted stale auto-update builtin extension from disk github.copilot-chat /home/chris/.vscode/extensions/github.copilot-chat-0.44.2
+2026-05-05 07:38:09.111 [info] Deleted stale auto-update builtin extension from disk github.copilot-chat /home/chris/.vscode/extensions/github.copilot-chat-0.45.1

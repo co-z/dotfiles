@@ -1,0 +1,102 @@
+{
+   "checksum": "d7bfa8488517d7fe8b68616be3507b35",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13421896364112548",
+            "date_last_used": "0",
+            "guid": "3874639c-130c-45b6-b6ad-e4cd1cee441f",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://www.google.com/?zx=1777422762852"
+         }, {
+            "date_added": "13421896350341618",
+            "date_last_used": "0",
+            "guid": "ad59c512-5d0b-4d72-8ca4-0d0f5a1549df",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13420853578529401",
+            "date_last_used": "0",
+            "guid": "f8e6e241-45e6-46f1-b490-198965497ea9",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://archlinux.org/"
+         }, {
+            "date_added": "13420853589448595",
+            "date_last_used": "0",
+            "guid": "d89c44fb-fd4b-47e0-bfb0-5b04cf9a016d",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13421896277188689",
+            "date_last_used": "13421901686995110",
+            "guid": "b8222841-8005-430c-a2df-ff9c1d47be58",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://www.amazon.com/?&tag=amazusnavi-20&ref=pd_sl_28nm7nbam1_e&adgrpid=185319704606&hvpone=&hvptwo=&hvadid=793056977215&hvpos=&hvnetw=g&hvrand=3610335094816964587&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016902&hvtargid=kwd-360364908397&hydadcr=28884_15009378_1546077&mcid=adfdaf019ea13ff5af2dd6b5b801add6&hvocijid=3610335094816964587--&hvexpln=0"
+         }, {
+            "date_added": "13421896376411918",
+            "date_last_used": "0",
+            "guid": "064b5647-0bce-4010-bbba-ce64378a55e4",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         } ],
+         "date_added": "13420853478961013",
+         "date_last_used": "0",
+         "date_modified": "13421896376411918",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13420853478961013",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13420853478961013",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

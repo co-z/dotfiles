@@ -1,0 +1,54 @@
+* {
+    border: none;
+    font-family: Ubuntu monospace;
+    font-size: 12px;
+    min-height: 0;
+    margin: 0;
+    padding: 0;
+}
+
+window#waybar {
+    background: transparent;
+}
+
+tooltip {
+    background: rgba(43, 48, 59, 0.5);
+    border: 1px solid rgba(100, 114, 125, 0.5);
+}
+
+tooltip label {
+    color: white;
+}
+
+#workspaces {
+    transition: all 1050ms ease-in-out;
+}
+
+#workspaces button {
+    transition: all 200ms ease-in-out;
+    padding: 0 5px;
+    margin: 0 2px;
+    background: alpha(#0a0000, 0.8);
+    color: #665c54 ;
+    border: 1px solid #434343;
+}
+
+#workspaces button.active {
+    min-width: 50px;
+    background-color: #e8e8e8;
+    color: #121212;
+    border-radius: 100px;
+    border: 0px;
+}
+
+#clock {
+    font-weight: 700;
+}
+
+#pulseaudio {
+    background-color: rgb(255, 255, 255);
+    color: #121212;
+    padding: 0 5px;
+    margin: 0 5px;
+    border-radius: 5px;
+}

@@ -1,0 +1,7 @@
+2026-05-05 07:38:08.451 [info] Started local extension host with pid 45895.
+2026-05-05 07:38:08.719 [warning] Skipping extension /home/chris/.vscode/extensions/github.copilot-chat-0.45.1 in favour of the builtin extension /opt/visual-studio-code/resources/app/extensions/copilot.
+2026-05-05 07:38:09.165 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-05-05 07:38:09.347 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-05-05 07:38:11.500 [info] [perf] Render performance baseline is 20ms
+2026-05-05 07:38:13.412 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-05-05 07:38:14.166 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false

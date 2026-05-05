@@ -1,0 +1,31 @@
+2026-05-03 19:15:16.947 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker enabled: false
+2026-05-03 19:15:16.947 [info] [getSessions] [all] starting
+2026-05-03 19:15:16.947 [info] [getSessions] [all] returned 0 session(s)
+2026-05-03 19:15:16.947 [info] [getSessions] [all] starting
+2026-05-03 19:15:16.947 [info] [getSessions] [all] returned 0 session(s)
+2026-05-03 19:15:16.947 [info] [getSessions] [all] starting
+2026-05-03 19:15:16.947 [info] [getSessions] [all] returned 0 session(s)
+2026-05-03 19:15:16.947 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2026-05-03 19:15:16.947 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker enabled: false
+2026-05-03 19:15:17.303 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
+2026-05-03 19:15:17.811 [info] [getSessions] [all] starting
+2026-05-03 19:15:17.811 [info] [getSessions] [all] returned 0 session(s)
+2026-05-03 19:15:18.188 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2026-05-03 19:15:18.188 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
+2026-05-03 19:19:25.106 [info] Microsoft Authentication is deactivating...
+2026-05-03 19:19:27.342 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker enabled: false
+2026-05-03 19:19:27.347 [info] [getSessions] [all] starting
+2026-05-03 19:19:27.347 [info] [getSessions] [all] returned 0 session(s)
+2026-05-03 19:19:27.347 [info] [getSessions] [all] starting
+2026-05-03 19:19:27.347 [info] [getSessions] [all] returned 0 session(s)
+2026-05-03 19:19:27.347 [info] [getSessions] [all] starting
+2026-05-03 19:19:27.347 [info] [getSessions] [all] returned 0 session(s)
+2026-05-03 19:19:27.348 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2026-05-03 19:19:27.348 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker enabled: false
+2026-05-03 19:19:27.349 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
+2026-05-03 19:19:28.259 [info] [getSessions] [all] starting
+2026-05-03 19:19:28.259 [info] [getSessions] [all] returned 0 session(s)
+2026-05-03 19:19:28.390 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2026-05-03 19:19:28.390 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
+2026-05-03 19:41:35.473 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2026-05-03 19:41:35.473 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)

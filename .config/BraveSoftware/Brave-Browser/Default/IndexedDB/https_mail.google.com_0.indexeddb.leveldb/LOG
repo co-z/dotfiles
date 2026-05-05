@@ -1,0 +1,6 @@
+2026/05/01-15:25:17.585 15a0 Reusing MANIFEST /home/chris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/01-15:25:17.585 15a0 Recovering log #3
+2026/05/01-15:25:17.586 15a0 Reusing old log /home/chris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2026/05/01-15:25:32.037 15a2 Level-0 table #5: started
+2026/05/01-15:25:32.051 15a2 Level-0 table #5: 3211605 bytes OK
+2026/05/01-15:25:32.054 15a2 Delete type=0 #3

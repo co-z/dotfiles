@@ -1,0 +1,8 @@
+2026-05-05 07:38:07.237 [info] StorageMainService: creating application shared storage
+2026-05-05 07:38:07.237 [info] StorageMainService: creating application shared storage with local application storage fallback
+2026-05-05 07:38:07.258 [info] [shared storage] Creating shared storage database at '/home/chris/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: true)
+2026-05-05 07:38:07.258 [info] [shared storage] Initializing fallback application storage (type: local, path: /home/chris/.config/Code/User/globalStorage/state.vscdb)
+2026-05-05 07:38:07.277 [info] [shared storage] Fallback application storage initialized with 113 items
+2026-05-05 07:38:07.280 [info] update#setState idle
+2026-05-05 07:38:37.281 [info] update#setState checking for updates
+2026-05-05 07:38:37.349 [info] update#setState idle

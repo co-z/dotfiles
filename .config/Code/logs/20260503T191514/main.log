@@ -1,0 +1,5 @@
+2026-05-03 19:15:14.376 [info] update#setState idle
+2026-05-03 19:15:44.377 [info] update#setState checking for updates
+2026-05-03 19:15:44.444 [info] update#setState available for download
+2026-05-03 19:19:25.107 [info] Extension host with pid 420276 exited with code: 0, signal: unknown.
+2026-05-03 19:19:25.169 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 420278]: crashed with code 15 and reason 'killed'

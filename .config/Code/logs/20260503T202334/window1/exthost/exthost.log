@@ -1,0 +1,16 @@
+2026-05-03 20:23:36.045 [info] Extension host with pid 534143 started
+2026-05-03 20:23:36.060 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-05-03 20:23:36.079 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-05-03 20:23:36.123 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-05-03 20:23:36.126 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-05-03 20:23:36.159 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-05-03 20:23:36.254 [info] Eager extensions activated
+2026-05-03 20:23:36.330 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-05-03 20:23:36.331 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2026-05-03 20:23:37.079 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-05-03 20:23:37.090 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2026-05-03 20:23:37.093 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc-icons, startup: false, activationEvent: 'onStartupFinished'
+2026-05-03 20:23:37.171 [info] ExtensionService#_doActivateExtension Thinker.font-awesome, startup: false, activationEvent: 'onStartupFinished'
+2026-05-03 20:23:37.470 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-05-03 20:24:14.643 [info] Extension host terminating: received terminate message from renderer
+2026-05-03 20:24:14.663 [info] Extension host with pid 534143 exiting with code 0

@@ -1,0 +1,5 @@
+2026-05-03 20:23:35.089 [error] Invalid path provided: /home/chris/.config/hypr, ENOENT: no such file or directory, stat '/home/chris/.config/hypr'
+2026-05-03 20:23:35.139 [info] update#setState idle
+2026-05-03 20:24:05.140 [info] update#setState checking for updates
+2026-05-03 20:24:05.211 [info] update#setState available for download
+2026-05-03 20:24:14.667 [info] Extension host with pid 534143 exited with code: 0, signal: unknown.

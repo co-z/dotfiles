@@ -1,0 +1,111 @@
+2026-05-03 13:41:03.770 [error] Ignoring terminal.integrated.initialHint.copilotCli as terminal.integrated.initialHint is true
+2026-05-03 13:41:04.095 [info] Started local extension host with pid 319342.
+2026-05-03 13:41:04.501 [error] Ignoring terminal.integrated.initialHint.copilotCli as terminal.integrated.initialHint is true
+2026-05-03 13:41:05.052 [error] Unable to create workbench contribution 'workbench.contrib.agentHostTerminal'. [createInstance] wbe depends on UNKNOWN service remoteAgentHostService.
+2026-05-03 13:41:05.130 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-05-03 13:41:05.962 [error] [Extension Host] (node:319342) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-05-03 13:41:05.963 [error] [Extension Host] (node:319342) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-05-03 13:41:06.292 [error] [Extension Host] Error: 
+Something went wrong installing the "sharp" module
+
+Cannot find module '../build/Release/sharp-linux-x64.node'
+Require stack:
+- /home/chris/.vscode/extensions/thinker.font-awesome-5.2.3/node_modules/sharp/lib/sharp.js
+- /home/chris/.vscode/extensions/thinker.font-awesome-5.2.3/node_modules/sharp/lib/constructor.js
+- /home/chris/.vscode/extensions/thinker.font-awesome-5.2.3/node_modules/sharp/lib/index.js
+- /home/chris/.vscode/extensions/thinker.font-awesome-5.2.3/out/IconView_Sidebar/index.js
+- /home/chris/.vscode/extensions/thinker.font-awesome-5.2.3/out/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js
+
+Possible solutions:
+- Install with verbose logging and look for errors: "npm install --ignore-scripts=false --foreground-scripts --verbose sharp"
+- Install for the current linux-x64 runtime: "npm install --platform=linux --arch=x64 sharp"
+- Consult the installation documentation: https://sharp.pixelplumbing.com/install
+	at Object.<anonymous> (/home/chris/.vscode/extensions/thinker.font-awesome-5.2.3/node_modules/sharp/lib/sharp.js:34:9)
+	at Module._compile (node:internal/modules/cjs/loader:1713:14)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+	at Module.load (node:internal/modules/cjs/loader:1448:32)
+	at Module._load (node:internal/modules/cjs/loader:1270:12)
+	at c._load (node:electron/js2c/node_init:2:18041)
+	at i._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:831:6589)
+	at e._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:649:28611)
+	at n._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:641:25798)
+	at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+	at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+	at Module.require (node:internal/modules/cjs/loader:1470:12)
+	at Module.require (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:490:36345)
+	at require (node:internal/modules/helpers:147:16)
+	at Object.<anonymous> (/home/chris/.vscode/extensions/thinker.font-awesome-5.2.3/node_modules/sharp/lib/constructor.js:8:1)
+	at Module._compile (node:internal/modules/cjs/loader:1713:14)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+	at Module.load (node:internal/modules/cjs/loader:1448:32)
+	at Module._load (node:internal/modules/cjs/loader:1270:12)
+	at c._load (node:electron/js2c/node_init:2:18041)
+	at i._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:831:6589)
+	at e._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:649:28611)
+	at n._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:641:25798)
+	at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+	at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+	at Module.require (node:internal/modules/cjs/loader:1470:12)
+	at Module.require (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:490:36345)
+	at require (node:internal/modules/helpers:147:16)
+	at Object.<anonymous> (/home/chris/.vscode/extensions/thinker.font-awesome-5.2.3/node_modules/sharp/lib/index.js:3:15)
+	at Module._compile (node:internal/modules/cjs/loader:1713:14)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+	at Module.load (node:internal/modules/cjs/loader:1448:32)
+	at Module._load (node:internal/modules/cjs/loader:1270:12)
+	at c._load (node:electron/js2c/node_init:2:18041)
+	at i._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:831:6589)
+	at e._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:649:28611)
+	at n._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:641:25798)
+	at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+	at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+	at Module.require (node:internal/modules/cjs/loader:1470:12)
+	at Module.require (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:490:36345)
+	at require (node:internal/modules/helpers:147:16)
+	at Object.<anonymous> (/home/chris/.vscode/extensions/thinker.font-awesome-5.2.3/out/IconView_Sidebar/index.js:14:13)
+	at Module._compile (node:internal/modules/cjs/loader:1713:14)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+	at Module.load (node:internal/modules/cjs/loader:1448:32)
+	at Module._load (node:internal/modules/cjs/loader:1270:12)
+	at c._load (node:electron/js2c/node_init:2:18041)
+	at i._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:831:6589)
+	at e._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:649:28611)
+	at n._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:641:25798)
+	at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+	at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+	at Module.require (node:internal/modules/cjs/loader:1470:12)
+	at Module.require (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:490:36345)
+	at require (node:internal/modules/helpers:147:16)
+	at Object.<anonymous> (/home/chris/.vscode/extensions/thinker.font-awesome-5.2.3/out/extension.js:5:28)
+	at Module._compile (node:internal/modules/cjs/loader:1713:14)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+	at Module.load (node:internal/modules/cjs/loader:1448:32)
+	at Module._load (node:internal/modules/cjs/loader:1270:12)
+	at c._load (node:electron/js2c/node_init:2:18041)
+	at i._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:831:6589)
+	at e._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:649:28611)
+	at n._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:641:25798)
+	at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+	at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+	at Module.require (node:internal/modules/cjs/loader:1470:12)
+	at Module.require (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:490:36345)
+	at require (node:internal/modules/helpers:147:16)
+	at uP._doLoadModule (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:680:1614)
+2026-05-03 13:41:07.011 [info] [perf] Render performance baseline is 21ms
+2026-05-03 13:41:08.266 [error] An unknown error occurred. Please consult the log for more details.
+2026-05-03 13:41:22.113 [error] An unknown error occurred. Please consult the log for more details.
+2026-05-03 13:41:38.926 [error] An unknown error occurred. Please consult the log for more details.
+2026-05-03 13:42:03.672 [error] An unknown error occurred. Please consult the log for more details.
+2026-05-03 13:42:30.752 [error] An unknown error occurred. Please consult the log for more details.
+2026-05-03 13:42:42.656 [error] An unknown error occurred. Please consult the log for more details.
+2026-05-03 13:42:58.080 [error] An unknown error occurred. Please consult the log for more details.
+2026-05-03 13:43:07.563 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-05-03 13:46:13.392 [error] An unknown error occurred. Please consult the log for more details.
+2026-05-03 13:46:27.638 [error] An unknown error occurred. Please consult the log for more details.
+2026-05-03 13:50:04.622 [error] An unknown error occurred. Please consult the log for more details.
+2026-05-03 13:50:23.831 [error] An unknown error occurred. Please consult the log for more details.
+2026-05-03 13:52:38.900 [warning] Attempted to report in-progress status for unknown chat session type 'copilot-cloud-agent'
+2026-05-03 13:52:38.900 [warning] Attempted to report in-progress status for unknown chat session type 'copilotcli'
+2026-05-03 13:52:38.900 [warning] Attempted to report in-progress status for unknown chat session type 'claude-code'

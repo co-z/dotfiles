@@ -1,0 +1,106 @@
+2026-05-03 18:24:14.244 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-05-03 18:24:14.244 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-05-03 18:24:14.244 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-05-03 18:24:14.244 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-05-03 18:24:14.259 [warning] GitHub login failed
+2026-05-03 18:24:14.259 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: false
+2026-05-03 18:24:14.386 [info] ConversationFeature: Waiting for copilot token to activate conversation feature
+2026-05-03 18:24:14.893 [info] [CopilotCLI] OpenTelemetry enabled: exporter=file, source=github.copilot
+2026-05-03 18:24:14.897 [info] [CopilotCLI] Cleaned up 1 stale lock file(s).
+2026-05-03 18:24:14.910 [info] [CopilotCLI] MCP server started. Lock file: /home/chris/.copilot/ide/c5fd7d2b-8c1b-47a4-8f9c-d6c1a46c85ed.lock
+2026-05-03 18:24:14.910 [info] [CopilotCLI] Server URI: unix:/tmp/mcp-yDnjlz/mcp.sock#%2Fmcp
+2026-05-03 18:24:14.911 [info] [CopilotCLIChatSessionContentProvider] listSessions took 462.45441900000014ms
+2026-05-03 18:24:14.911 [info] [CopilotCLIChatSessionContentProvider] listSessions took 1.116935999999896ms
+2026-05-03 18:24:14.920 [warning] GitHub login failed
+2026-05-03 18:24:14.927 [error] Error: GitHubLoginFailed
+	at ore._authShowWarnings (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:1721:18535)
+	at async ore.getCopilotToken (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:1721:16253)
+	at async sge.getCopilotToken (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:1396:7787)
+	at async IL.waitForChatEnabled (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:1500:2999)
+	at async IL.run (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:1500:2887)
+	at async Bee.askToUpgradeAuthPermissions (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:1500:2364): Failed to get copilot token
+2026-05-03 18:24:14.927 [error] You are not signed in to GitHub. Please sign in to use Copilot.
+2026-05-03 18:24:14.927 [info] [context keys] Setting context key: github.copilot.interactiveSession.gitHubLoginFailed
+2026-05-03 18:24:14.927 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2026-05-03 18:24:14.927 [error] Error: GitHubLoginFailed
+	at ore._authShowWarnings (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:1721:18535)
+	at async ore.getCopilotToken (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:1721:16253)
+	at async sge.getCopilotToken (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:1396:7787)
+	at async Vte._getToken (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:1688:8631)
+	at async r (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:1688:8095)
+	at async Vte._registerEmbeddings (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:1688:8592)
+	at async Promise.all (index 1)
+	at async Promise.allSettled (index 1)
+	at async YO.waitForActivationBlockers (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:1162:7696)
+	at async /home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:1162:8470
+	at async jhn (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:1162:8338)
+	at async wb._activate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:501:15965)
+	at async wb._waitForDepsThenActivate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:501:15907)
+	at async wb._initialize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:501:15274)
+2026-05-03 18:24:14.927 [info] activationBlocker from 'languageModelAccess' took for 566ms
+2026-05-03 18:24:14.927 [error] [CopilotCLISession] Failed to fetch models: Error: Failed to get token for auth info
+2026-05-03 18:24:14.927 [error] [ClaudeCodeModels] Failed to fetch models: Error: GitHubLoginFailed
+2026-05-03 18:24:14.928 [error] PermissiveAuthRequiredError: Permissive authentication is required
+	at M3.getCopilotAgentModels (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:1708:9696)
+	at async Promise.allSettled (index 1)
+	at async rv.provideChatSessionProviderOptions (/home/chris/.vscode/extensions/github.copilot-chat-0.45.1/dist/extension.js:2691:12072)
+	at async vh.$provideChatSessionProviderOptions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:529:40069)
+2026-05-03 18:24:16.047 [info] Using the Electron fetcher.
+2026-05-03 18:24:27.806 [info] Logged in as co-z
+2026-05-03 18:24:28.259 [info] Got Copilot token for co-z
+2026-05-03 18:24:28.259 [info] Copilot Chat: 0.45.1, VS Code: 1.116.0
+2026-05-03 18:24:28.392 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-05-03 18:24:28.392 [info] copilot token sku: free_limited_copilot
+2026-05-03 18:24:28.392 [info] ConversationFeature: Activating contributions
+2026-05-03 18:24:28.392 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-05-03 18:24:28.404 [info] Registering default platform agent...
+2026-05-03 18:24:28.405 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-05-03 18:24:28.405 [info] [code-referencing] Public code references are enabled.
+2026-05-03 18:24:28.406 [info] activationBlocker from 'conversationFeature' took for 14051ms
+2026-05-03 18:24:28.410 [info] [context keys] Setting context key: github.copilot-chat.activated
+2026-05-03 18:24:28.421 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-05-03 18:24:28.508 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-05-03 18:24:28.509 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-05-03 18:24:28.562 [info] Fetched model metadata in 169ms 831e1a43-43c2-4e22-bd90-458dc00c3e27
+2026-05-03 18:24:28.587 [info] Latest entry: ccreq:latest.copilotmd
+2026-05-03 18:24:28.587 [info] ccreq:c016aec0.copilotmd | markdown
+2026-05-03 18:27:06.158 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-05-03 18:27:06.158 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-05-03 18:27:06.158 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-05-03 18:27:06.158 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-05-03 18:27:06.158 [info] ConversationFeature: Waiting for copilot token to activate conversation feature
+2026-05-03 18:27:06.439 [info] [CopilotCLI] OpenTelemetry enabled: exporter=file, source=github.copilot
+2026-05-03 18:27:06.445 [info] Logged in as co-z
+2026-05-03 18:27:06.449 [info] Using the Electron fetcher.
+2026-05-03 18:27:06.474 [info] [CopilotCLIChatSessionContentProvider] listSessions took 527.9337999999998ms
+2026-05-03 18:27:06.504 [info] [CopilotCLI] MCP server started. Lock file: /home/chris/.copilot/ide/df0efbf8-d036-4baf-8c5e-5859a3bba2ca.lock
+2026-05-03 18:27:06.504 [info] [CopilotCLI] Server URI: unix:/tmp/mcp-yyns3x/mcp.sock#%2Fmcp
+2026-05-03 18:27:06.844 [info] Got Copilot token for co-z
+2026-05-03 18:27:06.844 [info] Copilot Chat: 0.45.1, VS Code: 1.116.0
+2026-05-03 18:27:06.855 [info] [context keys] Setting context key: github.copilot-chat.activated
+2026-05-03 18:27:06.856 [info] activationBlocker from 'languageModelAccess' took for 1051ms
+2026-05-03 18:27:06.927 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-05-03 18:27:06.927 [info] copilot token sku: free_limited_copilot
+2026-05-03 18:27:06.927 [info] ConversationFeature: Activating contributions
+2026-05-03 18:27:06.927 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-05-03 18:27:06.939 [info] Registering default platform agent...
+2026-05-03 18:27:06.940 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-05-03 18:27:06.940 [info] [code-referencing] Public code references are enabled.
+2026-05-03 18:27:06.940 [info] activationBlocker from 'conversationFeature' took for 1143ms
+2026-05-03 18:27:06.948 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-05-03 18:27:06.950 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-05-03 18:27:06.960 [info] Fetched model metadata in 1142ms 453b1d58-acff-4d2a-a4b8-579f2e70239b
+2026-05-03 18:27:06.969 [info] Latest entry: ccreq:latest.copilotmd
+2026-05-03 18:27:06.970 [info] ccreq:52565987.copilotmd | markdown
+2026-05-03 18:27:06.987 [info] [CopilotCLIChatSessionContentProvider] listSessions took 13.006513999999697ms
+2026-05-03 18:27:07.005 [info] [CopilotCLIChatSessionContentProvider] listSessions took 7.506214999999429ms
+2026-05-03 18:27:07.018 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-05-03 18:27:18.821 [info] [CopilotCLIChatSessionContentProvider] listSessions took 5.348462999998446ms
+2026-05-03 18:27:19.626 [info] [CopilotCLIChatSessionContentProvider] listSessions took 4.49253200000021ms
+2026-05-03 18:27:23.292 [info] [CopilotCLIChatSessionContentProvider] listSessions took 4.562110999999277ms
+2026-05-03 18:27:24.455 [info] [CopilotCLIChatSessionContentProvider] listSessions took 4.6502330000002985ms
+2026-05-03 18:27:27.241 [info] [CopilotCLIChatSessionContentProvider] listSessions took 5.06152099999963ms
+2026-05-03 18:27:27.853 [info] [CopilotCLIChatSessionContentProvider] listSessions took 5.398785000001226ms
+2026-05-03 18:27:48.963 [info] [CopilotCLIChatSessionContentProvider] listSessions took 5.255083000003651ms
+2026-05-03 18:28:01.899 [info] [CopilotCLIChatSessionContentProvider] listSessions took 5.143335000000661ms
+2026-05-03 18:28:03.887 [info] [CopilotCLIChatSessionContentProvider] listSessions took 4.433595000002242ms

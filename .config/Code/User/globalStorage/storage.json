@@ -1,0 +1,112 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "63d9e2c0df947a5148de539f6ee6d596465683dfd125315bd88e9bc3a3b0281b",
+    "telemetry.devDeviceId": "ac77dd2a-85b6-4e2a-acc8-e6547152cbf2",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1777981087768"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/chris/.config/waybar/wallpapers": "__default__profile__",
+            "file:///home/chris/.config/waybar": "__default__profile__",
+            "file:///home/chris/.config/sway": "__default__profile__",
+            "file:///home/chris/.config/hypr": "__default__profile__",
+            "file:///home/chris/.config/nvim": "__default__profile__",
+            "file:///home/chris/.config/nvim/lua": "__default__profile__",
+            "file:///home/chris/.config": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1777981087768": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#282828",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#282828",
+            "editorBackground": "#282828",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/chris/.config/Code/Backups/1777981087768",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 630,
+                "height": 686
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "84e501875f4073c17e86929211d16203": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "4c5f11f5c648ca1311ee91d79ca26b03": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": false
+                },
+                "e8b53163cd9db7eec72945b8d6266134": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "b44f82c7468d82b1677229b389f12c50": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "7e859ecdb92adbcea4ef8f6637a1e746": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "f3690bb7e4f6f2b15f4213a0b5457e24": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "37b4c607dc160a6f7296134900e3342e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "7d0cd250895033dadb412fb2f17fdcc2": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": true
+                },
+                "79cf6d7090c810f1d23f0bf9f78bf950": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

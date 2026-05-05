@@ -1,0 +1,9 @@
+2026/05/03-20:25:33.850 87cc7 Reusing MANIFEST /home/chris/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2026/05/03-20:25:33.854 87cc7 Recovering log #150
+2026/05/03-20:25:33.855 87cc7 Reusing old log /home/chris/.config/vesktop/sessionData/Local Storage/leveldb/000150.log 
+2026/05/03-20:27:34.208 87cc7 Level-0 table #155: started
+2026/05/03-20:27:34.224 87cc7 Level-0 table #155: 21935 bytes OK
+2026/05/03-20:27:34.227 87cc7 Delete type=0 #150
+2026/05/03-21:26:11.845 87980 Level-0 table #157: started
+2026/05/03-21:26:11.850 87980 Level-0 table #157: 68732 bytes OK
+2026/05/03-21:26:11.854 87980 Delete type=0 #154

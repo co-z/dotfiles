@@ -1,0 +1,11 @@
+{
+  "openH264Enabled": true,
+  "IS_MAXIMIZED": false,
+  "IS_MINIMIZED": false,
+  "WINDOW_BOUNDS": {
+    "x": 640,
+    "y": 360,
+    "width": 1280,
+    "height": 720
+  }
+}

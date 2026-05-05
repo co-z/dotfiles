@@ -1,0 +1,48 @@
+{
+    "layer": "top",
+    "position": "top",
+    "margin-top": 10,
+    "width": 1500,
+    "modules-left": [
+        "hyprland/workspaces"
+    ],
+    "modules-center": [
+        "clock"
+    ],
+    "modules-right": [
+        "pulseaudio",
+    ],
+    "clock": {
+        "format-alt": "{:%a, %d. %b  %H:%M}"
+    },
+"pulseaudio": {
+    "format": "{volume}% {icon}",
+    "format-bluetooth": "{volume}% {icon}",
+    "format-muted": "",
+    "format-icons": {
+        "headphone": "󰋋",
+        "hands-free": "",
+        "headset": "",
+        "phone": "",
+        "phone-muted": "",
+        "portable": "",
+        "car": "",
+        "default": [
+            "",
+            ""
+        ]
+    },
+    "scroll-step": 1,
+    "on-click": "pavucontrol",
+    "ignored-sinks": [
+        "Easy Effects Sink"
+    ]
+},
+
+"hyprland/workspaces": {
+    "format": "{name}"
+},
+"persistent-workspaces": {
+    "*": 5
+}
+}
